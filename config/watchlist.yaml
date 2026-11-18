@@ -1,0 +1,216 @@
+# One entry per company. Each slug/tenant below was verified against its live endpoint on 2026-11-18.
+# ats: greenhouse | lever | ashby | workday
+# slug: greenhouse board token / lever company / ashby company
+# workday: tenant, wd (the N in wdN), site (string or list), optional search (list of searchText values)
+# size: S (<200) | M (200-5000) | L (>5000)  -- approximate headcount
+# city: primary metro for this list, or "Remote"
+
+# --- Companies that responded to past applications -------------------------
+- name: Visa
+  ats: workday
+  tenant: visa
+  wd: 5
+  site: Visa
+  size: L
+  city: Austin
+  why: "Responded to an application; large Austin engineering hub"
+
+- name: Chevron
+  ats: workday
+  tenant: chevron
+  wd: 5
+  site: [University, jobs]
+  size: L
+  city: Houston
+  why: "Responded to an application; Houston HQ, university hiring site"
+
+- name: Sentry Insurance
+  ats: workday
+  tenant: sentryinsurance
+  wd: 1
+  site: SentryCareers
+  size: M
+  city: Remote
+  why: "Responded to an application; insurance, hires early-career developers"
+
+# --- Houston-area Workday employers seen hiring software roles on Simplify ----
+- name: BP
+  ats: workday
+  tenant: bpinternational
+  wd: 3
+  site: [bpEarlyCareers, bpCareers]
+  size: L
+  city: Houston
+  why: "Energy; Houston digital hub with graduate software roles"
+
+- name: Insperity
+  ats: workday
+  tenant: insperity
+  wd: 12
+  site: NSP
+  size: M
+  city: Houston
+  why: "HR services HQ in Kingwood; posts Software Engineer roles"
+
+- name: PROS
+  ats: workday
+  tenant: pros
+  wd: 5
+  site: pros_careers
+  size: M
+  city: Houston
+  why: "Houston pricing/AI SaaS company"
+
+- name: Memorial Hermann
+  ats: workday
+  tenant: memorialhermann
+  wd: 5
+  site: external
+  size: L
+  city: Houston
+  why: "Healthcare IT; application analyst and developer roles"
+
+- name: Westlake
+  ats: workday
+  tenant: westlake
+  wd: 1
+  site: westlake
+  size: L
+  city: Houston
+  why: "Industrial/chemicals HQ in Houston; internal IT and data roles"
+
+# --- Texas companies on Greenhouse ---------------------------------------
+- name: Bot Auto
+  ats: greenhouse
+  slug: botauto
+  size: S
+  city: Houston
+  why: "Houston autonomous trucking startup; logistics"
+
+- name: PMG
+  ats: greenhouse
+  slug: pmg
+  size: M
+  city: Dallas
+  why: "Dallas ad-tech agency; posts junior software and data roles"
+
+- name: Self Financial
+  ats: greenhouse
+  slug: selffinancial
+  size: S
+  city: Austin
+  why: "Austin fintech"
+
+- name: Vestwell
+  ats: greenhouse
+  slug: vestwell
+  size: M
+  city: Austin
+  why: "Fintech with an Austin office"
+
+- name: Four Hands
+  ats: greenhouse
+  slug: fourhands
+  size: M
+  city: Austin
+  why: "Austin furniture wholesaler with an in-house software team; logistics"
+
+- name: Avride
+  ats: greenhouse
+  slug: avride
+  size: M
+  city: Dallas
+  why: "Autonomous vehicles/delivery with Dallas operations"
+
+- name: Torc Robotics
+  ats: greenhouse
+  slug: torcrobotics
+  size: M
+  city: Dallas
+  why: "Autonomous trucking with a DFW hub; logistics"
+
+- name: SpaceX
+  ats: greenhouse
+  slug: spacex
+  size: L
+  city: Austin
+  why: "Large Texas footprint (Starbase, Bastrop, Austin); many software roles"
+
+- name: CLEAR
+  ats: greenhouse
+  slug: clear
+  size: M
+  city: Austin
+  why: "Identity platform with an Austin office"
+
+- name: Neuralink
+  ats: greenhouse
+  slug: neuralink
+  size: M
+  city: Austin
+  why: "Austin software and ML roles"
+
+# --- Texas companies on Lever --------------------------------------------
+- name: Waabi
+  ats: lever
+  slug: waabi
+  size: S
+  city: Dallas
+  why: "AI autonomous trucking with Dallas operations"
+
+- name: Meds
+  ats: lever
+  slug: meds
+  size: S
+  city: Austin
+  why: "Austin healthcare startup"
+
+# --- Texas companies on Ashby --------------------------------------------
+- name: Pariveda
+  ats: ashby
+  slug: pariveda
+  size: M
+  city: Houston
+  why: "Dallas-HQ consultancy with a Houston office; hires new-grad developers"
+
+- name: Saronic
+  ats: ashby
+  slug: saronic
+  size: M
+  city: Austin
+  why: "Austin defense autonomy; many software roles (some need clearance)"
+
+- name: Mariana Minerals
+  ats: ashby
+  slug: marianaminerals
+  size: S
+  city: Houston
+  why: "Industrial/mining software startup with Houston roles"
+
+- name: ZettaSquared
+  ats: ashby
+  slug: zetta2
+  size: S
+  city: Houston
+  why: "Houston startup posting software roles"
+
+- name: Zello
+  ats: ashby
+  slug: Zello
+  size: S
+  city: Austin
+  why: "Austin push-to-talk app company; mobile"
+
+- name: Contoro
+  ats: ashby
+  slug: contoro
+  size: S
+  city: Austin
+  why: "Austin robotics startup; logistics"
+
+- name: Fluidstack
+  ats: ashby
+  slug: fluidstack
+  size: M
+  city: Austin
+  why: "AI cloud infrastructure with Austin roles"

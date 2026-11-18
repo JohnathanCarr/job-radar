@@ -1,0 +1,78 @@
+[
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Praetorian",
+    "id": "e04180ab-1284-468d-a4b4-3231f24db581",
+    "title": "Software Engineer",
+    "active": true,
+    "date_updated": 1774911961,
+    "date_posted": 1774909375,
+    "url": "https://www.praetorian.com/careers/?gh_jid=5386005003#job-opening",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Praetorian",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Pennsylvania State University",
+    "id": "511d6f5f-2c89-4282-b5ab-da8d188ff120",
+    "title": "Engineering Designer",
+    "active": true,
+    "date_updated": 1775303196,
+    "date_posted": 1775300138,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Designer_REQ_0000076206-2",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Sainsbury's",
+    "id": "b1cd3f6e-e0d3-4b1c-b238-25074185e0a6",
+    "title": "Trading Assistant",
+    "active": false,
+    "date_updated": 1774304137,
+    "date_posted": 1774304137,
+    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054775",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Sainsburys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "date_updated": 1774934795,
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "degrees": [],
+    "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008",
+    "company_name": "Scout AI",
+    "title": "Junior Firmware Engineer",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "category": "Software Engineering",
+    "source": "AlmondCroffle",
+    "id": "723295b5-251b-44de-8933-5939d249aae2",
+    "date_posted": 1774934795,
+    "company_url": "",
+    "is_visible": true
+  }
+]

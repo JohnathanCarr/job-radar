@@ -1,0 +1,65 @@
+name: radar
+
+on:
+  schedule:
+    # 11:00 UTC = 05:00 CST / 06:00 CDT. Runs before the 07:00 CT triage task year-round,
+    # with headroom for GitHub's scheduled-run delays.
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+    inputs:
+      bootstrap:
+        description: "Bootstrap run (new.json gets only jobs posted in the last 7 days)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run radar
+        id: radar
+        run: |
+          set +e
+          python -m radar.main ${{ inputs.bootstrap && '--bootstrap' || '' }}
+          echo "exit=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          n=$(python -c "import json; print(json.load(open('data/new.json'))['count'])")
+          git commit -m "radar: $(TZ=America/Chicago date +%F) (+${n} new)"
+          for i in 1 2 3 4; do
+            git push && exit 0
+            sleep $((2 ** i))
+            git pull --rebase
+          done
+          exit 1
+
+      - name: Fail if most sources errored
+        if: steps.radar.outputs.exit != '0'
+        run: |
+          echo "radar exited ${{ steps.radar.outputs.exit }}; see data/run_log.json"
+          exit 1

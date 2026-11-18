@@ -1,0 +1,21 @@
+# Companies whose careers sites run on an ATS job-radar doesn't poll (v1).
+# Check these by hand. ATS detected from the careers page on 2026-11-18.
+- name: NOV
+  ats: oracle
+  careers_url: https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions
+  why: "Responded to an application; Houston"
+
+- name: Kinder Morgan
+  ats: icims
+  careers_url: https://careers-kindermorgan.icims.com/jobs/search
+  why: "Responded to an application; Houston"
+
+- name: NRG Energy
+  ats: successfactors
+  careers_url: https://careers.nrgenergy.com/
+  why: "Responded to an application; Houston"
+
+- name: Phillips 66
+  ats: successfactors
+  careers_url: https://careers.phillips66.com/
+  why: "Responded to an application; Houston"

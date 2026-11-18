@@ -1,0 +1,30 @@
+title:
+  include: '(?i)\b(software|sw|application|applications|full[ -]?stack|front[ -]?end|back[ -]?end|mobile|react native|ios|android|ai|llm|ml|machine learning|data|solutions|integration|integrations|implementation|forward[ -]?deployed|platform|devops|support|automation|qa)\b.*\b(engineer|developer|dev|analyst|programmer)\b'
+  # Also accept titles that contain these alone:
+  include_also: '(?i)\b(new grad|early career|university|graduate|associate software|junior)\b'
+  exclude: '(?i)\b(senior|sr\.?|staff|principal|lead|manager|director|head of|architect|vp|intern|internship|co-?op|phd)\b'
+  # Hardware / non-software engineering titles that slip past include via "data", "support", etc.
+  exclude_hardware: '(?i)\b(silicon|asic|fpga|rtl|analog|pcb|hardware|mechanical|electrical|civil|chemical|structural|propulsion|avionics)\b'
+  # Level numbers: drop II/III/2/3 ONLY when the title doesn't also offer I/1
+  # e.g. keep "Software Engineer I/II" and "Software Engineer 1/2", drop "Software Engineer III"
+  level_exclude_unless_entry: '(?i)\b(ii|iii|iv|2|3|4)\b'
+  level_entry_markers: '(?i)\b(i|1|junior|jr\.?|associate|entry|new grad|early career)\b'
+
+location:
+  # Word boundaries (\b) keep e.g. 'addison' from matching 'Madison, WI'.
+  preferred:   # scores higher in triage; all are kept
+    - '(?i)\b(houston|katy|sugar land|the woodlands|spring, tx|cypress, tx|pearland|conroe|humble|league city)\b'
+    - '(?i)\bremote\b'
+  acceptable:
+    - '(?i)\b(austin|round rock|cedar park|georgetown, tx|san marcos)\b'
+    - '(?i)\b(dallas|fort worth|plano|frisco|irving|richardson|addison|arlington, tx|mckinney|allen, tx)\b'
+  include_other_us: false     # if true, keep other US locations tagged "other-us"
+  remote_must_be_us: true     # drop "Remote in Canada", "Remote - UK", etc. when no US option exists
+
+age:
+  max_days: 30          # drop jobs with posted_at older than this
+  keep_undated: true    # keep jobs with no posted_at; first_seen becomes the freshness signal
+
+# Not a filter: which Simplify categories to read. Everything else is ignored.
+simplify:
+  categories: ["Software", "AI/ML/Data", "Software Engineering", "Data Science, AI & Machine Learning"]

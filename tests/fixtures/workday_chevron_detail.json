@@ -1,0 +1,38 @@
+{
+  "jobPostingInfo": {
+    "id": "28256ed785021000cc533c7ebaed0000",
+    "title": "2026-2027 Facilities Engineering Operations and Turnarounds Construction Engineering Intern",
+    "location": "Richmond, California, United States of America",
+    "additionalLocations": [
+      "Pascagoula, Mississippi, United States of America",
+      "Midland, Texas, United States of America",
+      "El Segundo, California, United States of America"
+    ],
+    "postedOn": "Posted 7 Days Ago",
+    "startDate": "2026-11-11",
+    "timeType": "Full time",
+    "jobReqId": "R000072376",
+    "jobPostingId": "XMLNAME-2026-2027-Facilities-Engineering-Operations-and-Turnarounds-Construction-Engineering-Intern_R000072376",
+    "jobPostingSiteId": "University",
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "canApply": true,
+    "posted": true,
+    "includeResumeParsing": true,
+    "jobRequisitionLocation": {
+      "descriptor": "Richmond Administration Bldg",
+      "country": {
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09",
+        "alpha2Code": "US"
+      }
+    },
+    "externalUrl": "https://chevron.wd5.myworkdayjobs.com/University/job/Richmond-California-United-States-of-America/XMLNAME-2026-2027-Facilities-Engineering-Operations-and-Turnarounds-Construction-Engineering-Intern_R000072376",
+    "questionnaireId": "eded2360af651001ef157cb6c06d0000",
+    "secondaryQuestionnaireId": "92f85ef174a71000b00dd64d7f030000",
+    "supplementaryQuestionnaireId": "328507563dc51000ce3d801555120000",
+    "endDate": "2027-07-01"
+  }
+}

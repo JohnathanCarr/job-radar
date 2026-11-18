@@ -1,0 +1,70 @@
+[
+  {
+    "categories": {
+      "commitment": "Scholarship",
+      "location": "North America",
+      "team": "Business Development",
+      "allLocations": [
+        "North America"
+      ]
+    },
+    "createdAt": 1750119374985,
+    "id": "0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "text": "American Tech Fellowship",
+    "country": "US",
+    "workplaceType": "remote",
+    "hostedUrl": "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "applyUrl": "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0/apply"
+  },
+  {
+    "categories": {
+      "commitment": "Full-time",
+      "location": "Singapore, Singapore",
+      "team": "Administrative",
+      "allLocations": [
+        "Singapore, Singapore"
+      ]
+    },
+    "createdAt": 1786469891368,
+    "id": "6ed76ce8-4156-4b60-b120-403538bd66cd",
+    "text": "Administrative Business Partner",
+    "country": "SG",
+    "workplaceType": "hybrid",
+    "hostedUrl": "https://jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd",
+    "applyUrl": "https://jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd/apply"
+  },
+  {
+    "categories": {
+      "commitment": "Full-time",
+      "location": "London, United Kingdom",
+      "team": "Administrative",
+      "allLocations": [
+        "London, United Kingdom"
+      ]
+    },
+    "createdAt": 1711403416463,
+    "id": "ac978161-6f46-4f6b-ad9e-a258e642751c",
+    "text": "Administrative Business Partner",
+    "country": "GB",
+    "workplaceType": "onsite",
+    "hostedUrl": "https://jobs.lever.co/palantir/ac978161-6f46-4f6b-ad9e-a258e642751c",
+    "applyUrl": "https://jobs.lever.co/palantir/ac978161-6f46-4f6b-ad9e-a258e642751c/apply"
+  },
+  {
+    "categories": {
+      "commitment": "Scholarship",
+      "location": "North America",
+      "team": "Business Development",
+      "allLocations": [
+        "North America"
+      ]
+    },
+    "createdAt": 1750119374985,
+    "id": "0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "text": "American Tech Fellowship",
+    "country": "US",
+    "workplaceType": "remote",
+    "hostedUrl": "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "applyUrl": "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0/apply"
+  }
+]
