@@ -1,21 +1,21 @@
 {
-  "run_at": "2026-11-18T19:50:45Z",
+  "run_at": "2026-11-18T19:52:01Z",
   "run_date": "2026-11-18",
-  "bootstrap": true,
-  "runtime_seconds": 28.3,
+  "bootstrap": false,
+  "runtime_seconds": 11.0,
   "totals": {
     "feeds": 28,
     "errored": 7,
     "matching": 73,
-    "new": 73,
-    "reported_new": 25
+    "new": 0,
+    "reported_new": 0
   },
   "errored_feeds": [
     "workday:bpinternational",
     "workday:chevron",
     "workday:insperity",
     "workday:memorialhermann",
-    "workday:pros",
+    "workday:sentryinsurance",
     "workday:visa",
     "workday:westlake"
   ],
@@ -34,7 +34,7 @@
       "company": "Contoro",
       "fetched": 9,
       "kept": 1,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     "ashby:fluidstack": {
@@ -42,7 +42,7 @@
       "company": "Fluidstack",
       "fetched": 245,
       "kept": 2,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "ashby:marianaminerals": {
@@ -66,7 +66,7 @@
       "company": "Saronic",
       "fetched": 277,
       "kept": 2,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "ashby:zetta2": {
@@ -74,7 +74,7 @@
       "company": "ZettaSquared",
       "fetched": 6,
       "kept": 2,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "greenhouse:avride": {
@@ -82,7 +82,7 @@
       "company": "Avride",
       "fetched": 54,
       "kept": 2,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "greenhouse:botauto": {
@@ -90,7 +90,7 @@
       "company": "Bot Auto",
       "fetched": 20,
       "kept": 1,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     "greenhouse:clear": {
@@ -130,7 +130,7 @@
       "company": "Self Financial",
       "fetched": 8,
       "kept": 2,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "greenhouse:spacex": {
@@ -146,7 +146,7 @@
       "company": "Torc Robotics",
       "fetched": 50,
       "kept": 1,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     "greenhouse:vestwell": {
@@ -154,7 +154,7 @@
       "company": "Vestwell",
       "fetched": 31,
       "kept": 2,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "lever:meds": {
@@ -178,7 +178,7 @@
       "company": null,
       "fetched": 18709,
       "kept": 65,
-      "new": 58,
+      "new": 0,
       "error": null
     },
     "workday:bpinternational": {
@@ -216,18 +216,18 @@
     "workday:pros": {
       "source": "workday",
       "company": "PROS",
-      "fetched": 0,
+      "fetched": 4,
       "kept": 0,
       "new": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pros.wd5.myworkdayjobs.com/wday/cxs/pros/pros_careers/jobs"
+      "error": null
     },
     "workday:sentryinsurance": {
       "source": "workday",
       "company": "Sentry Insurance",
-      "fetched": 13,
+      "fetched": 0,
       "kept": 0,
       "new": 0,
-      "error": null
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sentryinsurance.wd1.myworkdayjobs.com/wday/cxs/sentryinsurance/SentryCareers/jobs"
     },
     "workday:visa": {
       "source": "workday",
