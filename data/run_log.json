@@ -1,24 +1,16 @@
 {
-  "run_at": "2026-11-18T19:52:01Z",
+  "run_at": "2026-11-18T20:11:51Z",
   "run_date": "2026-11-18",
   "bootstrap": false,
-  "runtime_seconds": 11.0,
+  "runtime_seconds": 9.1,
   "totals": {
-    "feeds": 28,
-    "errored": 7,
+    "feeds": 21,
+    "errored": 0,
     "matching": 73,
     "new": 0,
     "reported_new": 0
   },
-  "errored_feeds": [
-    "workday:bpinternational",
-    "workday:chevron",
-    "workday:insperity",
-    "workday:memorialhermann",
-    "workday:sentryinsurance",
-    "workday:visa",
-    "workday:westlake"
-  ],
+  "errored_feeds": [],
   "failed": false,
   "feeds": {
     "ashby:Zello": {
@@ -181,69 +173,13 @@
       "new": 0,
       "error": null
     },
-    "workday:bpinternational": {
-      "source": "workday",
-      "company": "BP",
-      "fetched": 0,
-      "kept": 0,
-      "new": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/bpinternational/bpEarlyCareers/jobs"
-    },
-    "workday:chevron": {
-      "source": "workday",
-      "company": "Chevron",
-      "fetched": 0,
-      "kept": 0,
-      "new": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/University/jobs"
-    },
-    "workday:insperity": {
-      "source": "workday",
-      "company": "Insperity",
-      "fetched": 0,
-      "kept": 0,
-      "new": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://insperity.wd12.myworkdayjobs.com/wday/cxs/insperity/NSP/jobs"
-    },
-    "workday:memorialhermann": {
-      "source": "workday",
-      "company": "Memorial Hermann",
-      "fetched": 0,
-      "kept": 0,
-      "new": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://memorialhermann.wd5.myworkdayjobs.com/wday/cxs/memorialhermann/external/jobs"
-    },
-    "workday:pros": {
-      "source": "workday",
-      "company": "PROS",
-      "fetched": 4,
-      "kept": 0,
-      "new": 0,
-      "error": null
-    },
     "workday:sentryinsurance": {
       "source": "workday",
       "company": "Sentry Insurance",
-      "fetched": 0,
+      "fetched": 13,
       "kept": 0,
       "new": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sentryinsurance.wd1.myworkdayjobs.com/wday/cxs/sentryinsurance/SentryCareers/jobs"
-    },
-    "workday:visa": {
-      "source": "workday",
-      "company": "Visa",
-      "fetched": 0,
-      "kept": 0,
-      "new": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
-    "workday:westlake": {
-      "source": "workday",
-      "company": "Westlake",
-      "fetched": 0,
-      "kept": 0,
-      "new": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://westlake.wd1.myworkdayjobs.com/wday/cxs/westlake/westlake/jobs"
+      "error": null
     }
   }
 }
