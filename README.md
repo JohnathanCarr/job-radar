@@ -68,9 +68,10 @@ Simplify sponsorship tags `us-citizen-required`, `no-sponsorship`, `offers-spons
   `additionalLocations`), but only when the title passes the filter. `total` is only reliable on
   the first page. `posted_at` is derived from relative text (marked `posted_at_approx`), and the
   earliest value recorded for a uid is kept so it doesn't drift.
-  **Workday returns HTTP 429 to non-browser User-Agents**, including this project's descriptive
-  UA (7 of 8 tenants refused it in testing). Workday requests therefore send a standard browser
-  User-Agent; the owner approved this on 2026-11-18. Other sources send the descriptive UA.
+  **Workday returns HTTP 429 to automated clients.** From this dev container and from GitHub
+  Actions, 7 of 8 tenants refused requests, including with a browser User-Agent (tried and
+  reverted). Only Sentry answers, so it is the only Workday feed left; the rest are in
+  `unsupported.yaml`. The Workday source stays in the code for any tenant that allows access.
 - **Simplify**: matches the brief. One extra sponsorship value: `Offers Sponsorship`.
 
 ## Changes to the brief's filter config
@@ -83,7 +84,7 @@ Simplify sponsorship tags `us-citizen-required`, `no-sponsorship`, `offers-spons
 
 ## Open issues
 
-- The browser-UA Workday path hasn't had a live run yet; the first Actions run is its first real
-  test. Check `run_log.json` for `workday:*` errors.
+- Most Workday tenants block automated access (see above). Visa, Chevron, BP, Insperity, PROS,
+  Memorial Hermann and Westlake are in `unsupported.yaml` for manual checks.
 - NOV (Oracle), Kinder Morgan (iCIMS), NRG and Phillips 66 (SuccessFactors) aren't on a
   supported ATS; they are in `unsupported.yaml`.

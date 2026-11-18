@@ -1,4 +1,6 @@
 # One entry per company. Each slug/tenant below was verified against its live endpoint on 2026-11-18.
+# Workday tenants that return HTTP 429 to automated clients (from here and from GitHub Actions)
+# were moved to unsupported.yaml on 2026-11-18.
 # ats: greenhouse | lever | ashby | workday
 # slug: greenhouse board token / lever company / ashby company
 # workday: tenant, wd (the N in wdN), site (string or list), optional search (list of searchText values)
@@ -6,24 +8,6 @@
 # city: primary metro for this list, or "Remote"
 
 # --- Companies that responded to past applications -------------------------
-- name: Visa
-  ats: workday
-  tenant: visa
-  wd: 5
-  site: Visa
-  size: L
-  city: Austin
-  why: "Responded to an application; large Austin engineering hub"
-
-- name: Chevron
-  ats: workday
-  tenant: chevron
-  wd: 5
-  site: [University, jobs]
-  size: L
-  city: Houston
-  why: "Responded to an application; Houston HQ, university hiring site"
-
 - name: Sentry Insurance
   ats: workday
   tenant: sentryinsurance
@@ -32,52 +16,6 @@
   size: M
   city: Remote
   why: "Responded to an application; insurance, hires early-career developers"
-
-# --- Houston-area Workday employers seen hiring software roles on Simplify ----
-- name: BP
-  ats: workday
-  tenant: bpinternational
-  wd: 3
-  site: [bpEarlyCareers, bpCareers]
-  size: L
-  city: Houston
-  why: "Energy; Houston digital hub with graduate software roles"
-
-- name: Insperity
-  ats: workday
-  tenant: insperity
-  wd: 12
-  site: NSP
-  size: M
-  city: Houston
-  why: "HR services HQ in Kingwood; posts Software Engineer roles"
-
-- name: PROS
-  ats: workday
-  tenant: pros
-  wd: 5
-  site: pros_careers
-  size: M
-  city: Houston
-  why: "Houston pricing/AI SaaS company"
-
-- name: Memorial Hermann
-  ats: workday
-  tenant: memorialhermann
-  wd: 5
-  site: external
-  size: L
-  city: Houston
-  why: "Healthcare IT; application analyst and developer roles"
-
-- name: Westlake
-  ats: workday
-  tenant: westlake
-  wd: 1
-  site: westlake
-  size: L
-  city: Houston
-  why: "Industrial/chemicals HQ in Houston; internal IT and data roles"
 
 # --- Texas companies on Greenhouse ---------------------------------------
 - name: Bot Auto

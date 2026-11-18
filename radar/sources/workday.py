@@ -7,13 +7,12 @@ import time
 from datetime import date, datetime, time as dtime, timedelta
 
 from ..models import Job, clean, is_remote_text, iso_utc, slug
-from . import BROWSER_USER_AGENT, request_json
+from . import request_json
 
 PAGE = 20
 CAP = 200              # max postings read per company (across all searches)
 DELAY = 1.0            # seconds between requests to the same tenant
 DEFAULT_SEARCHES = ("software", "developer", "engineer")
-HEADERS = {"User-Agent": BROWSER_USER_AGENT, "Accept": "application/json", "Accept-Language": "en-US"}
 
 _REQ_ID = re.compile(r"^[A-Za-z]{0,6}[-_]?\d{4,}[A-Za-z0-9_-]*$")
 _MULTI = re.compile(r"^\d+\s+Locations?$", re.I)
@@ -100,7 +99,7 @@ def fetch(session, entry: dict, title_ok, today: date, tz) -> tuple[int, list[Jo
         if wait > 0:
             time.sleep(wait)
         try:
-            return request_json(session, method, url, headers=HEADERS, **kw)
+            return request_json(session, method, url, **kw)
         finally:
             last = time.monotonic()
 

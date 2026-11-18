@@ -19,3 +19,40 @@
   ats: successfactors
   careers_url: https://careers.phillips66.com/
   why: "Responded to an application; Houston"
+
+# --- Workday tenants that block automated clients (HTTP 429 from GitHub Actions) ----
+# The Simplify feed still picks up some of their postings.
+- name: Visa
+  ats: workday
+  careers_url: https://visa.wd5.myworkdayjobs.com/Visa
+  why: "Responded to an application; Austin engineering hub"
+
+- name: Chevron
+  ats: workday
+  careers_url: https://chevron.wd5.myworkdayjobs.com/University
+  why: "Responded to an application; Houston HQ (also https://chevron.wd5.myworkdayjobs.com/jobs)"
+
+- name: BP
+  ats: workday
+  careers_url: https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers
+  why: "Energy; Houston digital hub (also .../bpCareers)"
+
+- name: Insperity
+  ats: workday
+  careers_url: https://insperity.wd12.myworkdayjobs.com/NSP
+  why: "HR services HQ in Kingwood"
+
+- name: PROS
+  ats: workday
+  careers_url: https://pros.wd5.myworkdayjobs.com/pros_careers
+  why: "Houston pricing/AI SaaS"
+
+- name: Memorial Hermann
+  ats: workday
+  careers_url: https://memorialhermann.wd5.myworkdayjobs.com/external
+  why: "Houston healthcare IT"
+
+- name: Westlake
+  ats: workday
+  careers_url: https://westlake.wd1.myworkdayjobs.com/westlake
+  why: "Houston industrial/chemicals"
