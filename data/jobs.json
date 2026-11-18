@@ -1,0 +1,1905 @@
+{
+  "run_at": "2026-11-18T19:50:45Z",
+  "count": 73,
+  "jobs": {
+    "simplify:amazon:2ebe6dc0-7a17-40c2-a840-c58c312185d9": {
+      "company": "Amazon",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX",
+        "North Reading, MA",
+        "Westborough, MA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-18T02:51:18Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Development Engineer - Robotics",
+      "uid": "simplify:amazon:2ebe6dc0-7a17-40c2-a840-c58c312185d9",
+      "url": "https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027"
+    },
+    "simplify:executive-title-agency:03450e61-5413-4d01-ab76-a00ce4e99e0f": {
+      "company": "Executive Title Agency",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Houston, TX"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-18T02:04:10Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Data Analyst",
+      "uid": "simplify:executive-title-agency:03450e61-5413-4d01-ab76-a00ce4e99e0f",
+      "url": "https://apply.workable.com/executive-title-agency/j/BB739F3FED/apply"
+    },
+    "simplify:qualcomm:372dccd9-1f30-4e08-89c6-71ef714dfb33": {
+      "company": "Qualcomm",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX",
+        "Raleigh, NC",
+        "NYC",
+        "San Diego, CA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's",
+          "PhD"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-17T23:40:02Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
+      "uid": "simplify:qualcomm:372dccd9-1f30-4e08-89c6-71ef714dfb33",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722177119"
+    },
+    "simplify:ghd:bff455d1-b0e0-4a6a-8c63-08d5882fc38d": {
+      "company": "GHD",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Farmington Hills, MI",
+        "King of Prussia, PA",
+        "Houston, TX",
+        "Dallas, TX",
+        "Rosemont, IL",
+        "Golden, CO"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-16T23:28:55Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Graduate Developer",
+      "uid": "simplify:ghd:bff455d1-b0e0-4a6a-8c63-08d5882fc38d",
+      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481"
+    },
+    "simplify:microsoft:e225362a-3608-44aa-ae93-8c06b023ccd7": {
+      "company": "Microsoft",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA",
+        "United States"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-16T23:27:33Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Software Engineer",
+      "uid": "simplify:microsoft:e225362a-3608-44aa-ae93-8c06b023ccd7",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557074534"
+    },
+    "simplify:h2o-ai:17655aa4-584e-4622-b4b0-8b989c753d72": {
+      "company": "H2O.ai",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-13T23:39:09Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Software Engineer",
+      "uid": "simplify:h2o-ai:17655aa4-584e-4622-b4b0-8b989c753d72",
+      "url": "https://h2oai.applytojob.com/apply/QwA3SV58KB/Software-Engineer"
+    },
+    "simplify:h2o-ai:2d9bedb8-eb1a-403c-84d0-2384a7ddf03f": {
+      "company": "H2O.ai",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-13T23:39:08Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Software Engineer",
+      "uid": "simplify:h2o-ai:2d9bedb8-eb1a-403c-84d0-2384a7ddf03f",
+      "url": "https://h2oai.applytojob.com/apply/FQrRrbP34W/Software-Engineer"
+    },
+    "simplify:h2o-ai:b2c16e55-dd3b-43dd-9b19-da69aff7bfb9": {
+      "company": "H2O.ai",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-13T23:39:08Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Software Engineer",
+      "uid": "simplify:h2o-ai:b2c16e55-dd3b-43dd-9b19-da69aff7bfb9",
+      "url": "https://h2oai.applytojob.com/apply/8EzSCyZJDw/Software-Engineer"
+    },
+    "simplify:emerson-electric:2bfd33ca-a576-43cf-b83d-428a0f935f05": {
+      "company": "Emerson Electric",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Master's",
+          "PhD"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-13T23:04:51Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Engineer - Applied AI",
+      "uid": "simplify:emerson-electric:2bfd33ca-a576-43cf-b83d-428a0f935f05",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013909"
+    },
+    "ashby:contoro:68192423-05e1-40fa-aa2b-f40ced4cb87b": {
+      "company": "Contoro",
+      "company_size": "S",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "feed": "ashby:contoro",
+        "workplace_type": "OnSite"
+      },
+      "posted_at": "2026-11-13T17:35:56Z",
+      "remote": false,
+      "source": "ashby",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Remote Support Engineer, Deployment",
+      "uid": "ashby:contoro:68192423-05e1-40fa-aa2b-f40ced4cb87b",
+      "url": "https://jobs.ashbyhq.com/contoro/68192423-05e1-40fa-aa2b-f40ced4cb87b"
+    },
+    "simplify:empowerly:48575bc5-b3c7-42b6-b136-7df9d7bd0791": {
+      "company": "Empowerly",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-13T07:38:43Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Full Stack Software Engineer",
+      "uid": "simplify:empowerly:48575bc5-b3c7-42b6-b136-7df9d7bd0791",
+      "url": "https://ats.rippling.com/empowerly/jobs/bf9b3e41-e94a-409e-8dc6-620f2cc0171b"
+    },
+    "simplify:q2:e83b2b8a-4be2-4964-85be-319d2e951209": {
+      "company": "Q2",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-13T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Engineer",
+      "uid": "simplify:q2:e83b2b8a-4be2-4964-85be-319d2e951209",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953"
+    },
+    "simplify:senseye:f28de8cd-1902-4fee-969b-6defdce6acd3": {
+      "company": "Senseye",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Master's",
+          "PhD"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-12T23:19:52Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "AI Engineer",
+      "uid": "simplify:senseye:f28de8cd-1902-4fee-969b-6defdce6acd3",
+      "url": "https://apply.workable.com/senseye/j/56F6BB2046/apply"
+    },
+    "simplify:affirm:6aeeb00d-88c5-4ee8-871e-ff119dee63bb": {
+      "company": "Affirm",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-12T23:15:54Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Software Engineer 1 - Backend - Continuous Delivery",
+      "uid": "simplify:affirm:6aeeb00d-88c5-4ee8-871e-ff119dee63bb",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003"
+    },
+    "ashby:zetta2:28a44d44-b138-476f-acda-65384f1623dc": {
+      "company": "ZettaSquared",
+      "company_size": "S",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Houston HQ"
+      ],
+      "meta": {
+        "alt_uids": [
+          "simplify:zettasquared:5c0bcf75-8935-487e-84af-65b44d75fae9"
+        ],
+        "feed": "ashby:zetta2",
+        "workplace_type": "Hybrid"
+      },
+      "posted_at": "2026-11-12T22:13:44Z",
+      "remote": true,
+      "source": "ashby",
+      "tags": [
+        "loc-preferred",
+        "simplify",
+        "watchlist"
+      ],
+      "title": "Forward Engineer / AI Developer - College Graduate Program",
+      "uid": "ashby:zetta2:28a44d44-b138-476f-acda-65384f1623dc",
+      "url": "https://jobs.ashbyhq.com/zetta2/28a44d44-b138-476f-acda-65384f1623dc"
+    },
+    "simplify:bask-health:ca8d4e99-7c1a-43f6-9730-cb0083351686": {
+      "company": "Bask Health",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-12T07:12:04Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Frontend Engineer New Grad",
+      "uid": "simplify:bask-health:ca8d4e99-7c1a-43f6-9730-cb0083351686",
+      "url": "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply"
+    },
+    "simplify:bask-health:33b98fd9-daf3-45e9-9fd7-4ea7b235bf9c": {
+      "company": "Bask Health",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-12T07:12:03Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Junior Design Engineer",
+      "uid": "simplify:bask-health:33b98fd9-daf3-45e9-9fd7-4ea7b235bf9c",
+      "url": "https://apply.workable.com/bask-health-1/j/E8EA53DF48/apply"
+    },
+    "simplify:wash-u:50eedce1-4c09-47bb-a737-7be6bc79d1a8": {
+      "company": "Wash U",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-12T00:00:00Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Data Analyst - Transplant Nephrology",
+      "uid": "simplify:wash-u:50eedce1-4c09-47bb-a737-7be6bc79d1a8",
+      "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521"
+    },
+    "simplify:dell-technologies:66a3fd3d-a721-4dc6-9c48-bb23e6e6e507": {
+      "company": "Dell Technologies",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Round Rock, TX"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T23:31:06Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Data Science Analyst",
+      "uid": "simplify:dell-technologies:66a3fd3d-a721-4dc6-9c48-bb23e6e6e507",
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/R271283"
+    },
+    "simplify:bask-health:74d82beb-3517-4872-9c8b-d941ed96a360": {
+      "company": "Bask Health",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T23:07:48Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Junior Full Stack Engineer",
+      "uid": "simplify:bask-health:74d82beb-3517-4872-9c8b-d941ed96a360",
+      "url": "https://apply.workable.com/bask-health-1/j/DFC51193B4/apply"
+    },
+    "simplify:bask-health:7c1b04da-848d-41e2-a4a0-f31fa0dac003": {
+      "company": "Bask Health",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T23:07:48Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Junior Product Engineer - Interactive Experiences",
+      "uid": "simplify:bask-health:7c1b04da-848d-41e2-a4a0-f31fa0dac003",
+      "url": "https://apply.workable.com/bask-health-1/j/7B69E15EFA/apply"
+    },
+    "simplify:bask-health:f2780a21-a21c-43d2-97ce-2c496ab82c90": {
+      "company": "Bask Health",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T23:07:48Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Software Engineer",
+      "uid": "simplify:bask-health:f2780a21-a21c-43d2-97ce-2c496ab82c90",
+      "url": "https://apply.workable.com/bask-health-1/j/3AC4353728/apply"
+    },
+    "simplify:bask-health:1fe26744-2400-47ae-b1f3-2a14bde6b7f8": {
+      "company": "Bask Health",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T23:07:47Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Product Engineer New Grad",
+      "uid": "simplify:bask-health:1fe26744-2400-47ae-b1f3-2a14bde6b7f8",
+      "url": "https://apply.workable.com/bask-health-1/j/E7E44CA0FC/apply"
+    },
+    "simplify:bask-health:c23aab68-23dc-4a16-8eb3-ccc62a259ab3": {
+      "company": "Bask Health",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T23:07:47Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Backend Engineer New Grad",
+      "uid": "simplify:bask-health:c23aab68-23dc-4a16-8eb3-ccc62a259ab3",
+      "url": "https://apply.workable.com/bask-health-1/j/472CF47F60/apply"
+    },
+    "greenhouse:selffinancial:6255478004": {
+      "company": "Self Financial",
+      "company_size": "S",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "alt_uids": [
+          "simplify:self-financial:617aa92a-141d-4ff8-b0b2-c8c28019e164"
+        ],
+        "feed": "greenhouse:selffinancial",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-11-11T19:44:01Z",
+      "remote": false,
+      "source": "greenhouse",
+      "tags": [
+        "loc-acceptable",
+        "simplify",
+        "watchlist"
+      ],
+      "title": "Associate Software Engineer",
+      "uid": "greenhouse:selffinancial:6255478004",
+      "url": "https://job-boards.greenhouse.io/selffinancial/jobs/6255478004"
+    },
+    "simplify:bask-health:43b8e348-e9a9-41b1-9c10-5bc2b4d1cbce": {
+      "company": "Bask Health",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T02:06:20Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Product Builder, Early Career",
+      "uid": "simplify:bask-health:43b8e348-e9a9-41b1-9c10-5bc2b4d1cbce",
+      "url": "https://apply.workable.com/bask-health-1/j/854A2D27D1/apply"
+    },
+    "simplify:cdk-global:5661c34a-0210-43e8-97dd-734c341fa13c": {
+      "company": "CDK Global",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Associate Software Engineer",
+      "uid": "simplify:cdk-global:5661c34a-0210-43e8-97dd-734c341fa13c",
+      "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1"
+    },
+    "simplify:salesforce:5d1a3f0e-ab9b-430a-affb-25361ff9d644": {
+      "company": "Salesforce",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Palo Alto, CA",
+        "Seattle, WA",
+        "Indianapolis, IN",
+        "SF",
+        "Dallas, TX",
+        "NYC",
+        "Bellevue, WA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Engineer New Grad",
+      "uid": "simplify:salesforce:5d1a3f0e-ab9b-430a-affb-25361ff9d644",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047"
+    },
+    "simplify:salesforce:c274d687-71f7-4484-8ae0-52884c72e8f8": {
+      "company": "Salesforce",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Palo Alto, CA",
+        "Seattle, WA",
+        "Indianapolis, IN",
+        "SF",
+        "Dallas, TX",
+        "NYC",
+        "Bellevue, WA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-11T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Engineering AMTS New Grad",
+      "uid": "simplify:salesforce:c274d687-71f7-4484-8ae0-52884c72e8f8",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1"
+    },
+    "simplify:goldman-sachs:60ba5d46-1da9-4411-9d8c-797c4a1811f2": {
+      "company": "Goldman Sachs",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-10T23:04:49Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Engineer - Software Engineering",
+      "uid": "simplify:goldman-sachs:60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+      "url": "https://higher.gs.com/roles/188640"
+    },
+    "greenhouse:botauto:5478642008": {
+      "company": "Bot Auto",
+      "company_size": "S",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Houston, TX"
+      ],
+      "meta": {
+        "feed": "greenhouse:botauto",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-11-10T21:18:05Z",
+      "remote": false,
+      "source": "greenhouse",
+      "tags": [
+        "loc-preferred",
+        "watchlist"
+      ],
+      "title": "Software Engineer, Simulation & Reinforcement Learning",
+      "uid": "greenhouse:botauto:5478642008",
+      "url": "https://job-boards.greenhouse.io/botauto/jobs/5478642008"
+    },
+    "simplify:multi-media:12e1fe90-2686-45e5-a2cb-28ea043f4489": {
+      "company": "Multi Media",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-10T02:16:08Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Software Engineer 1/2",
+      "uid": "simplify:multi-media:12e1fe90-2686-45e5-a2cb-28ea043f4489",
+      "url": "https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs"
+    },
+    "simplify:vizient:4eb69d88-9d79-4e01-80a1-bd85252cc29f": {
+      "company": "Vizient",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Irving, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-10T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Associate Software Engineer",
+      "uid": "simplify:vizient:4eb69d88-9d79-4e01-80a1-bd85252cc29f",
+      "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R"
+    },
+    "simplify:kyndryl:c2d2ad15-8c15-41f3-a588-da205f5d342a": {
+      "company": "Kyndryl",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Frisco, TX"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-09T23:27:25Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Early Career Consult Program - Associate Data Engineer",
+      "uid": "simplify:kyndryl:c2d2ad15-8c15-41f3-a588-da205f5d342a",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870"
+    },
+    "simplify:kyndryl:7e76f4ab-d701-446b-b1ee-ec844bfc91eb": {
+      "company": "Kyndryl",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Frisco, TX"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-09T23:15:24Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Associate Data Engineer",
+      "uid": "simplify:kyndryl:7e76f4ab-d701-446b-b1ee-ec844bfc91eb",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1"
+    },
+    "simplify:d-r-horton:102184b9-d71f-4afa-8f8e-48699a21e735": {
+      "company": "D.R. Horton",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Arlington, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-09T23:05:11Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Application Developer 1",
+      "uid": "simplify:d-r-horton:102184b9-d71f-4afa-8f8e-48699a21e735",
+      "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605503"
+    },
+    "simplify:planview:4db68403-cd75-4370-8b2b-304162a154ba": {
+      "company": "Planview",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-09T16:55:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Engineer 1",
+      "uid": "simplify:planview:4db68403-cd75-4370-8b2b-304162a154ba",
+      "url": "https://careers.planview.com/jobs/5149?icims=1&lang=en-us"
+    },
+    "greenhouse:avride:4483495009": {
+      "company": "Avride",
+      "company_size": "M",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "meta": {
+        "feed": "greenhouse:avride",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-11-06T02:06:22Z",
+      "remote": false,
+      "source": "greenhouse",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Software Engineer, Sensors and System Software (C++, Linux)",
+      "uid": "greenhouse:avride:4483495009",
+      "url": "https://job-boards.greenhouse.io/avride/jobs/4483495009"
+    },
+    "simplify:charles-schwab:206ba36a-050c-448b-b880-2b4c5ab214d4": {
+      "company": "Charles Schwab",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-06T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Associate Software Engineer",
+      "uid": "simplify:charles-schwab:206ba36a-050c-448b-b880-2b4c5ab214d4",
+      "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:neurohire-ai:e286c81e-9d91-47e7-9629-9185635680de": {
+      "company": "neurohire.ai",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-05T23:08:09Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Software AI Engineer",
+      "uid": "simplify:neurohire-ai:e286c81e-9d91-47e7-9629-9185635680de",
+      "url": "https://apply.workable.com/neurohire-dot-a-i/j/E5A5756725/apply"
+    },
+    "greenhouse:vestwell:8196645003": {
+      "company": "Vestwell",
+      "company_size": "M",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "New York, NY",
+        "Austin, TX",
+        "King of Prussia, PA",
+        "Scottsdale, AZ"
+      ],
+      "meta": {
+        "feed": "greenhouse:vestwell",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-11-05T21:40:48Z",
+      "remote": false,
+      "source": "greenhouse",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Application Security Engineer",
+      "uid": "greenhouse:vestwell:8196645003",
+      "url": "https://job-boards.greenhouse.io/vestwell/jobs/8196645003"
+    },
+    "simplify:empower-pharmacy:c423bdb8-fc59-4745-bc15-5224b565cc3a": {
+      "company": "Empower Pharmacy",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Houston, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-04T18:01:23Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Associate Software Engineer - Full Stack",
+      "uid": "simplify:empower-pharmacy:c423bdb8-fc59-4745-bc15-5224b565cc3a",
+      "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009"
+    },
+    "simplify:shadowdragon:7c16f1bd-bd39-4a42-a12c-2e49647c85cd": {
+      "company": "ShadowDragon",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA",
+        "Hoover, AL"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-04T10:11:33Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Junior AI/Machine Learning Engineer",
+      "uid": "simplify:shadowdragon:7c16f1bd-bd39-4a42-a12c-2e49647c85cd",
+      "url": "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c"
+    },
+    "simplify:vizient:dd22de65-f2ed-491a-906d-0db1329ac27f": {
+      "company": "Vizient",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Irving, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-04T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Associate Software Engineer",
+      "uid": "simplify:vizient:dd22de65-f2ed-491a-906d-0db1329ac27f",
+      "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1"
+    },
+    "ashby:fluidstack:559542ae-2c39-450b-af41-cb87c97796c1": {
+      "company": "Fluidstack",
+      "company_size": "M",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX",
+        "New York, NY",
+        "San Francisco, CA",
+        "Seattle, WA"
+      ],
+      "meta": {
+        "feed": "ashby:fluidstack",
+        "workplace_type": "OnSite"
+      },
+      "posted_at": "2026-11-03T19:31:30Z",
+      "remote": false,
+      "source": "ashby",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Software Engineer, Infrastructure Modelling",
+      "uid": "ashby:fluidstack:559542ae-2c39-450b-af41-cb87c97796c1",
+      "url": "https://jobs.ashbyhq.com/fluidstack/559542ae-2c39-450b-af41-cb87c97796c1"
+    },
+    "simplify:sambanova-systems:20eef2b5-2b76-436c-be94-9a14b28c9a90": {
+      "company": "SambaNova Systems",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA"
+      ],
+      "meta": {
+        "alt_uids": [
+          "simplify:sambanova-systems:2ca476b1-e283-4e45-8f5d-12dcfa6b20e8",
+          "simplify:sambanova-systems:574ed495-74af-4f04-bd8a-3d57aa8a2151",
+          "simplify:sambanova-systems:74737e11-7997-42ce-8911-1628466217e5",
+          "simplify:sambanova-systems:79eb7a85-c4c3-4b07-b781-f8a67ec940c5"
+        ],
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's",
+          "Master's",
+          "PhD"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-03T17:21:30Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Machine Learning Engineer New Grad",
+      "uid": "simplify:sambanova-systems:20eef2b5-2b76-436c-be94-9a14b28c9a90",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004"
+    },
+    "greenhouse:vestwell:8108684003": {
+      "company": "Vestwell",
+      "company_size": "M",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "New York, NY",
+        "Austin, TX",
+        "King of Prussia, PA",
+        "Scottsdale, AZ"
+      ],
+      "meta": {
+        "alt_uids": [
+          "simplify:vestwell:be79eb94-affb-4e0a-8d40-c2d2b2987b53"
+        ],
+        "feed": "greenhouse:vestwell",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-11-03T15:50:54Z",
+      "remote": false,
+      "source": "greenhouse",
+      "tags": [
+        "loc-acceptable",
+        "simplify",
+        "watchlist"
+      ],
+      "title": "Data Analyst",
+      "uid": "greenhouse:vestwell:8108684003",
+      "url": "https://job-boards.greenhouse.io/vestwell/jobs/8108684003"
+    },
+    "simplify:brillio:eb83c731-b7fa-48a9-ae84-e2b8d4591878": {
+      "company": "Brillio",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Frisco, TX"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-03T07:31:04Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Data Acquisition Analyst",
+      "uid": "simplify:brillio:eb83c731-b7fa-48a9-ae84-e2b8d4591878",
+      "url": "https://jobs.lever.co/brillio-2/0663c1d8-d32a-4f52-a0ce-71fb6b5f0966/apply"
+    },
+    "greenhouse:torcrobotics:8924000002": {
+      "company": "Torc Robotics",
+      "company_size": "M",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote - US"
+      ],
+      "meta": {
+        "feed": "greenhouse:torcrobotics",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-11-02T19:12:15Z",
+      "remote": true,
+      "source": "greenhouse",
+      "tags": [
+        "loc-preferred",
+        "watchlist"
+      ],
+      "title": "Application Integration Engineer 1",
+      "uid": "greenhouse:torcrobotics:8924000002",
+      "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8924000002"
+    },
+    "ashby:zetta2:796c94d6-a370-41fd-a2a7-a2d9e19a0f59": {
+      "company": "ZettaSquared",
+      "company_size": "S",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Houston HQ"
+      ],
+      "meta": {
+        "feed": "ashby:zetta2",
+        "workplace_type": "Hybrid"
+      },
+      "posted_at": "2026-11-02T05:30:17Z",
+      "remote": true,
+      "source": "ashby",
+      "tags": [
+        "loc-preferred",
+        "watchlist"
+      ],
+      "title": "Forward Deployed Engineer",
+      "uid": "ashby:zetta2:796c94d6-a370-41fd-a2a7-a2d9e19a0f59",
+      "url": "https://jobs.ashbyhq.com/zetta2/796c94d6-a370-41fd-a2a7-a2d9e19a0f59"
+    },
+    "simplify:brown-brown-insurance:50699bdf-eacb-419e-8a11-b9803c46092e": {
+      "company": "Brown & Brown Insurance",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Plano, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-01T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Junior HubSpot Developer",
+      "uid": "simplify:brown-brown-insurance:50699bdf-eacb-419e-8a11-b9803c46092e",
+      "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694"
+    },
+    "simplify:amazon:49ac054d-6120-45f3-9704-30823f0c902f": {
+      "company": "Amazon",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA",
+        "Austin, TX",
+        "Redmond, WA",
+        "East Palo Alto, CA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-30T22:38:18Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Development Engineer - Database",
+      "uid": "simplify:amazon:49ac054d-6120-45f3-9704-30823f0c902f",
+      "url": "https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us"
+    },
+    "ashby:fluidstack:10215006-5bb7-423c-81be-2e41b84eff72": {
+      "company": "Fluidstack",
+      "company_size": "M",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "U.S. Remote",
+        "New York, NY",
+        "San Francisco, CA",
+        "Austin, TX",
+        "Seattle, WA"
+      ],
+      "meta": {
+        "feed": "ashby:fluidstack",
+        "workplace_type": "Remote"
+      },
+      "posted_at": "2026-10-30T19:44:35Z",
+      "remote": true,
+      "source": "ashby",
+      "tags": [
+        "loc-preferred",
+        "watchlist"
+      ],
+      "title": "Platform Engineer",
+      "uid": "ashby:fluidstack:10215006-5bb7-423c-81be-2e41b84eff72",
+      "url": "https://jobs.ashbyhq.com/fluidstack/10215006-5bb7-423c-81be-2e41b84eff72"
+    },
+    "simplify:bodyspec:f7888bad-462c-451b-a9e7-6c7506eea223": {
+      "company": "BodySpec",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-30T14:34:38Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Junior Software Engineer",
+      "uid": "simplify:bodyspec:f7888bad-462c-451b-a9e7-6c7506eea223",
+      "url": "https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer"
+    },
+    "simplify:neurohire-ai:c43fb91d-ea1e-4f4a-8ad9-b288107149ff": {
+      "company": "neurohire.ai",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-29T22:47:17Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Business Data Analyst",
+      "uid": "simplify:neurohire-ai:c43fb91d-ea1e-4f4a-8ad9-b288107149ff",
+      "url": "https://apply.workable.com/neurohire-dot-a-i/j/DE75CD20B8/apply"
+    },
+    "simplify:neurohire-ai:e9a3bdc4-ee68-432d-a3e3-c7172f37b90b": {
+      "company": "neurohire.ai",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-29T22:47:16Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Business Data Analyst",
+      "uid": "simplify:neurohire-ai:e9a3bdc4-ee68-432d-a3e3-c7172f37b90b",
+      "url": "https://apply.workable.com/neurohire-dot-a-i/j/516C3CF516/apply"
+    },
+    "simplify:utilisave:3708ca93-5d5b-4e4a-b5a7-24888d41515e": {
+      "company": "UtiliSave",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-29T22:24:39Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Forensic Regulatory Data Analyst",
+      "uid": "simplify:utilisave:3708ca93-5d5b-4e4a-b5a7-24888d41515e",
+      "url": "https://apply.workable.com/utilisave-llc-1/j/9ED27658CC/apply"
+    },
+    "ashby:saronic:96c1f534-bd49-481c-88c5-85d344b20c82": {
+      "company": "Saronic",
+      "company_size": "M",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "feed": "ashby:saronic",
+        "workplace_type": "OnSite"
+      },
+      "posted_at": "2026-10-29T19:45:18Z",
+      "remote": false,
+      "source": "ashby",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Forward Deployed Build Engineer",
+      "uid": "ashby:saronic:96c1f534-bd49-481c-88c5-85d344b20c82",
+      "url": "https://jobs.ashbyhq.com/saronic/96c1f534-bd49-481c-88c5-85d344b20c82"
+    },
+    "simplify:isembard:db2e73d9-53a4-44ad-8d27-d8c6bc00acd8": {
+      "company": "Isembard",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-29T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Forward Deployed Engineer",
+      "uid": "simplify:isembard:db2e73d9-53a4-44ad-8d27-d8c6bc00acd8",
+      "url": "https://jobs.ashbyhq.com/isembard/c676e261-3792-4564-96f7-934a696fc104/application?embed=true"
+    },
+    "simplify:amd:0727f717-7671-410b-a2ce-72856c4f8adb": {
+      "company": "AMD",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-28T18:06:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Distributed Systems Software Engineer - Collectives",
+      "uid": "simplify:amd:0727f717-7671-410b-a2ce-72856c4f8adb",
+      "url": "https://careers.amd.com/jobs/93894?icims=1"
+    },
+    "simplify:emerson-electric:2f04cf36-aee9-49fa-845e-326106818d30": {
+      "company": "Emerson Electric",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-27T22:12:24Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Engineer",
+      "uid": "simplify:emerson-electric:2f04cf36-aee9-49fa-845e-326106818d30",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042"
+    },
+    "simplify:rainfocus:40f1cb6d-ba5b-4991-8b2a-dd09c54f239a": {
+      "company": "RainFocus",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-27T22:11:24Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Junior UI Developer",
+      "uid": "simplify:rainfocus:40f1cb6d-ba5b-4991-8b2a-dd09c54f239a",
+      "url": "https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798/apply"
+    },
+    "simplify:amazon:9a6685e2-0aaf-400a-92b9-ec98a727cbf4": {
+      "company": "Amazon",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-27T22:04:15Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Developer Engineer 1 - Graviton Software - Annapurna Labs",
+      "uid": "simplify:amazon:9a6685e2-0aaf-400a-92b9-ec98a727cbf4",
+      "url": "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs"
+    },
+    "simplify:fab2:e794c4ea-160b-4797-b9b5-fb899b4763bc": {
+      "company": "Fab2",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-27T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Computer Vision Software Engineer",
+      "uid": "simplify:fab2:e794c4ea-160b-4797-b9b5-fb899b4763bc",
+      "url": "https://jobs.ashbyhq.com/fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf/application?embed=true"
+    },
+    "simplify:amazon:2b5665cf-ffeb-4c91-adce-7d9357641676": {
+      "company": "Amazon",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Seattle, WA",
+        "Austin, TX",
+        "NYC",
+        "Cupertino, CA"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-23T01:50:23Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Development Engineer 1 Early Career - Annapurna Labs",
+      "uid": "simplify:amazon:2b5665cf-ffeb-4c91-adce-7d9357641676",
+      "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027"
+    },
+    "simplify:cdk-global:2085ccad-8d75-4447-984d-d190fde07eb0": {
+      "company": "CDK Global",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-22T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Associate Software Engineer",
+      "uid": "simplify:cdk-global:2085ccad-8d75-4447-984d-d190fde07eb0",
+      "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9204"
+    },
+    "simplify:affirm:a06a1856-cdbd-4ca1-a106-b34bbefe114b": {
+      "company": "Affirm",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "SF",
+        "Remote in USA",
+        "NYC"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's",
+          "Master's",
+          "PhD"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-21T22:30:33Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Analyst – Early Career - Full Stack",
+      "uid": "simplify:affirm:a06a1856-cdbd-4ca1-a106-b34bbefe114b",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003"
+    },
+    "ashby:saronic:f33184f4-52ef-4b75-b644-2a7d6d525118": {
+      "company": "Saronic",
+      "company_size": "M",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "feed": "ashby:saronic",
+        "workplace_type": "OnSite"
+      },
+      "posted_at": "2026-10-21T17:11:45Z",
+      "remote": false,
+      "source": "ashby",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Forward Deployed Software Engineer",
+      "uid": "ashby:saronic:f33184f4-52ef-4b75-b644-2a7d6d525118",
+      "url": "https://jobs.ashbyhq.com/saronic/f33184f4-52ef-4b75-b644-2a7d6d525118"
+    },
+    "simplify:vizient:5d2615fd-5855-468c-b2f7-0ba0cf79d0a5": {
+      "company": "Vizient",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Irving, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-21T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Associate Software Engineer",
+      "uid": "simplify:vizient:5d2615fd-5855-468c-b2f7-0ba0cf79d0a5",
+      "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35366R"
+    },
+    "simplify:quora:1fac2631-0a51-44d0-9af9-209c670e1742": {
+      "company": "Quora",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Remote in USA",
+        "Remote in Canada"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's",
+          "PhD"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-20T22:23:47Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Full Stack Software Engineer New Grad",
+      "uid": "simplify:quora:1fac2631-0a51-44d0-9af9-209c670e1742",
+      "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true"
+    },
+    "greenhouse:avride:4458584009": {
+      "company": "Avride",
+      "company_size": "M",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "meta": {
+        "feed": "greenhouse:avride",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-10-19T22:53:16Z",
+      "remote": false,
+      "source": "greenhouse",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Labeling Backend Software Engineer",
+      "uid": "greenhouse:avride:4458584009",
+      "url": "https://job-boards.greenhouse.io/avride/jobs/4458584009"
+    },
+    "simplify:amazon:9c9ff27f-75fd-4c1b-b076-e687f7e08f74": {
+      "company": "Amazon",
+      "company_size": null,
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Madison, WI",
+        "Boston, MA",
+        "Seattle, WA",
+        "Austin, TX",
+        "Detroit, MI",
+        "Santa Clara, CA",
+        "Arlington County, Arlington, VA",
+        "Minneapolis, MN",
+        "Denver, CO"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's",
+          "Master's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-10-19T22:39:29Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Engineer – Early Career",
+      "uid": "simplify:amazon:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
+      "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us"
+    },
+    "greenhouse:selffinancial:6225372004": {
+      "company": "Self Financial",
+      "company_size": "S",
+      "first_seen": "2026-11-18",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "feed": "greenhouse:selffinancial",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-10-19T16:25:37Z",
+      "remote": false,
+      "source": "greenhouse",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Backend Software Engineer",
+      "uid": "greenhouse:selffinancial:6225372004",
+      "url": "https://job-boards.greenhouse.io/selffinancial/jobs/6225372004"
+    }
+  }
+}

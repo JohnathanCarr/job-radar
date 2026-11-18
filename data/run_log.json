@@ -1,0 +1,249 @@
+{
+  "run_at": "2026-11-18T19:50:45Z",
+  "run_date": "2026-11-18",
+  "bootstrap": true,
+  "runtime_seconds": 28.3,
+  "totals": {
+    "feeds": 28,
+    "errored": 7,
+    "matching": 73,
+    "new": 73,
+    "reported_new": 25
+  },
+  "errored_feeds": [
+    "workday:bpinternational",
+    "workday:chevron",
+    "workday:insperity",
+    "workday:memorialhermann",
+    "workday:pros",
+    "workday:visa",
+    "workday:westlake"
+  ],
+  "failed": false,
+  "feeds": {
+    "ashby:Zello": {
+      "source": "ashby",
+      "company": "Zello",
+      "fetched": 8,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "ashby:contoro": {
+      "source": "ashby",
+      "company": "Contoro",
+      "fetched": 9,
+      "kept": 1,
+      "new": 1,
+      "error": null
+    },
+    "ashby:fluidstack": {
+      "source": "ashby",
+      "company": "Fluidstack",
+      "fetched": 245,
+      "kept": 2,
+      "new": 2,
+      "error": null
+    },
+    "ashby:marianaminerals": {
+      "source": "ashby",
+      "company": "Mariana Minerals",
+      "fetched": 101,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "ashby:pariveda": {
+      "source": "ashby",
+      "company": "Pariveda",
+      "fetched": 28,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "ashby:saronic": {
+      "source": "ashby",
+      "company": "Saronic",
+      "fetched": 277,
+      "kept": 2,
+      "new": 2,
+      "error": null
+    },
+    "ashby:zetta2": {
+      "source": "ashby",
+      "company": "ZettaSquared",
+      "fetched": 6,
+      "kept": 2,
+      "new": 2,
+      "error": null
+    },
+    "greenhouse:avride": {
+      "source": "greenhouse",
+      "company": "Avride",
+      "fetched": 54,
+      "kept": 2,
+      "new": 2,
+      "error": null
+    },
+    "greenhouse:botauto": {
+      "source": "greenhouse",
+      "company": "Bot Auto",
+      "fetched": 20,
+      "kept": 1,
+      "new": 1,
+      "error": null
+    },
+    "greenhouse:clear": {
+      "source": "greenhouse",
+      "company": "CLEAR",
+      "fetched": 58,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "greenhouse:fourhands": {
+      "source": "greenhouse",
+      "company": "Four Hands",
+      "fetched": 29,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "greenhouse:neuralink": {
+      "source": "greenhouse",
+      "company": "Neuralink",
+      "fetched": 75,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "greenhouse:pmg": {
+      "source": "greenhouse",
+      "company": "PMG",
+      "fetched": 101,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "greenhouse:selffinancial": {
+      "source": "greenhouse",
+      "company": "Self Financial",
+      "fetched": 8,
+      "kept": 2,
+      "new": 2,
+      "error": null
+    },
+    "greenhouse:spacex": {
+      "source": "greenhouse",
+      "company": "SpaceX",
+      "fetched": 2786,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "greenhouse:torcrobotics": {
+      "source": "greenhouse",
+      "company": "Torc Robotics",
+      "fetched": 50,
+      "kept": 1,
+      "new": 1,
+      "error": null
+    },
+    "greenhouse:vestwell": {
+      "source": "greenhouse",
+      "company": "Vestwell",
+      "fetched": 31,
+      "kept": 2,
+      "new": 2,
+      "error": null
+    },
+    "lever:meds": {
+      "source": "lever",
+      "company": "Meds",
+      "fetched": 22,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "lever:waabi": {
+      "source": "lever",
+      "company": "Waabi",
+      "fetched": 86,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "simplify": {
+      "source": "simplify",
+      "company": null,
+      "fetched": 18709,
+      "kept": 65,
+      "new": 58,
+      "error": null
+    },
+    "workday:bpinternational": {
+      "source": "workday",
+      "company": "BP",
+      "fetched": 0,
+      "kept": 0,
+      "new": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/bpinternational/bpEarlyCareers/jobs"
+    },
+    "workday:chevron": {
+      "source": "workday",
+      "company": "Chevron",
+      "fetched": 0,
+      "kept": 0,
+      "new": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/University/jobs"
+    },
+    "workday:insperity": {
+      "source": "workday",
+      "company": "Insperity",
+      "fetched": 0,
+      "kept": 0,
+      "new": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://insperity.wd12.myworkdayjobs.com/wday/cxs/insperity/NSP/jobs"
+    },
+    "workday:memorialhermann": {
+      "source": "workday",
+      "company": "Memorial Hermann",
+      "fetched": 0,
+      "kept": 0,
+      "new": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://memorialhermann.wd5.myworkdayjobs.com/wday/cxs/memorialhermann/external/jobs"
+    },
+    "workday:pros": {
+      "source": "workday",
+      "company": "PROS",
+      "fetched": 0,
+      "kept": 0,
+      "new": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pros.wd5.myworkdayjobs.com/wday/cxs/pros/pros_careers/jobs"
+    },
+    "workday:sentryinsurance": {
+      "source": "workday",
+      "company": "Sentry Insurance",
+      "fetched": 13,
+      "kept": 0,
+      "new": 0,
+      "error": null
+    },
+    "workday:visa": {
+      "source": "workday",
+      "company": "Visa",
+      "fetched": 0,
+      "kept": 0,
+      "new": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "workday:westlake": {
+      "source": "workday",
+      "company": "Westlake",
+      "fetched": 0,
+      "kept": 0,
+      "new": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://westlake.wd1.myworkdayjobs.com/wday/cxs/westlake/westlake/jobs"
+    }
+  }
+}
