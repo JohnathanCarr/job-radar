@@ -16,7 +16,13 @@ python -m radar.main              # normal daily run
 python -m radar.main --bootstrap  # fill seen/jobs; new.json gets only jobs posted in the last 7 days
 python -m radar.main --only greenhouse   # debug: feeds whose key contains the text
 pytest
+python -m radar.suggest --days 60 --min 1   # print watchlist.yaml stubs from the Simplify dataset
 ```
+
+`radar.suggest` lists companies with Texas or remote-US software roles on Simplify in the last
+N days whose posting URLs are on Greenhouse, Lever, Ashby or Workday, skipping companies already
+on the watchlist. It prints YAML stubs. Fill in `size`/`city`/`why`, and check the endpoint
+before adding one.
 
 If `data/seen.json` doesn't exist, the run bootstraps automatically.
 
@@ -63,8 +69,8 @@ Simplify sponsorship tags `us-citizen-required`, `no-sponsorship`, `offers-spons
   the first page. `posted_at` is derived from relative text (marked `posted_at_approx`), and the
   earliest value recorded for a uid is kept so it doesn't drift.
   **Workday returns HTTP 429 to non-browser User-Agents**, including this project's descriptive
-  UA. In testing, 7 of 8 tenants refused it and Insperity answered. Those feeds log the error and
-  the run continues. See "Open issues".
+  UA (7 of 8 tenants refused it in testing). Workday requests therefore send a standard browser
+  User-Agent; the owner approved this on 2026-11-18. Other sources send the descriptive UA.
 - **Simplify**: matches the brief. One extra sponsorship value: `Offers Sponsorship`.
 
 ## Changes to the brief's filter config
@@ -77,9 +83,7 @@ Simplify sponsorship tags `us-citizen-required`, `no-sponsorship`, `offers-spons
 
 ## Open issues
 
-- Workday blocks honest automated clients with 429 (see above). Options: send a browser
-  User-Agent (Workday's terms may prohibit getting around its bot filter), drop the Workday
-  feeds and rely on Simplify (which already carries many Workday-hosted postings), or keep them
-  as-is and accept the logged errors.
+- The browser-UA Workday path hasn't had a live run yet; the first Actions run is its first real
+  test. Check `run_log.json` for `workday:*` errors.
 - NOV (Oracle), Kinder Morgan (iCIMS), NRG and Phillips 66 (SuccessFactors) aren't on a
   supported ATS; they are in `unsupported.yaml`.
