@@ -88,6 +88,20 @@
   city: Austin
   why: "Austin software and ML roles"
 
+- name: Affirm
+  ats: greenhouse
+  slug: affirm
+  size: M
+  city: Remote
+  why: "radar.suggest: remote-US Software Engineer I roles, new-grad friendly"
+
+- name: Orbis Operations
+  ats: greenhouse
+  slug: orbisoperations
+  size: S
+  city: Remote
+  why: "radar.suggest: remote-US full stack roles"
+
 # --- Texas companies on Lever --------------------------------------------
 - name: Waabi
   ats: lever
@@ -152,3 +166,38 @@
   size: M
   city: Austin
   why: "AI cloud infrastructure with Austin roles"
+
+- name: Horizon3.ai
+  ats: ashby
+  slug: horizon3ai
+  size: M
+  city: Remote
+  why: "radar.suggest: remote-US security/platform software roles"
+
+- name: Fab2
+  ats: ashby
+  slug: fab2
+  size: S
+  city: Austin
+  why: "radar.suggest: Austin computer-vision software roles"
+
+- name: Isembard
+  ats: ashby
+  slug: isembard
+  size: S
+  city: Dallas
+  why: "radar.suggest: Dallas forward deployed engineer roles"
+
+- name: Quora
+  ats: ashby
+  slug: quora
+  size: M
+  city: Remote
+  why: "radar.suggest: remote-US new-grad software roles"
+
+- name: SpruceID
+  ats: ashby
+  slug: spruceid
+  size: S
+  city: Remote
+  why: "radar.suggest: posts Full-Stack Software Engineer New Grad roles"
