@@ -7,16 +7,6 @@
 # size: S (<200) | M (200-5000) | L (>5000)  -- approximate headcount
 # city: primary metro for this list, or "Remote"
 
-# --- Companies that responded to past applications -------------------------
-- name: Sentry Insurance
-  ats: workday
-  tenant: sentryinsurance
-  wd: 1
-  site: SentryCareers
-  size: M
-  city: Remote
-  why: "Responded to an application; insurance, hires early-career developers"
-
 # --- Texas companies on Greenhouse ---------------------------------------
 - name: Bot Auto
   ats: greenhouse

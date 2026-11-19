@@ -22,6 +22,11 @@
 
 # --- Workday tenants that block automated clients (HTTP 429 from GitHub Actions) ----
 # The Simplify feed still picks up some of their postings.
+- name: Sentry Insurance
+  ats: workday
+  careers_url: https://sentryinsurance.wd1.myworkdayjobs.com/SentryCareers
+  why: "Responded to an application; insurance, hires early-career developers"
+
 - name: Visa
   ats: workday
   careers_url: https://visa.wd5.myworkdayjobs.com/Visa
