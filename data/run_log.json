@@ -1,16 +1,18 @@
 {
-  "run_at": "2026-11-18T20:11:51Z",
-  "run_date": "2026-11-18",
+  "run_at": "2026-11-19T19:14:58Z",
+  "run_date": "2026-11-19",
   "bootstrap": false,
-  "runtime_seconds": 9.1,
+  "runtime_seconds": 21.9,
   "totals": {
-    "feeds": 21,
-    "errored": 0,
+    "feeds": 28,
+    "errored": 1,
     "matching": 73,
-    "new": 0,
-    "reported_new": 0
+    "new": 6,
+    "reported_new": 6
   },
-  "errored_feeds": [],
+  "errored_feeds": [
+    "workday:sentryinsurance"
+  ],
   "failed": false,
   "feeds": {
     "ashby:Zello": {
@@ -29,11 +31,35 @@
       "new": 0,
       "error": null
     },
+    "ashby:fab2": {
+      "source": "ashby",
+      "company": "Fab2",
+      "fetched": 58,
+      "kept": 1,
+      "new": 1,
+      "error": null
+    },
     "ashby:fluidstack": {
       "source": "ashby",
       "company": "Fluidstack",
-      "fetched": 245,
+      "fetched": 244,
       "kept": 2,
+      "new": 0,
+      "error": null
+    },
+    "ashby:horizon3ai": {
+      "source": "ashby",
+      "company": "Horizon3.ai",
+      "fetched": 203,
+      "kept": 2,
+      "new": 2,
+      "error": null
+    },
+    "ashby:isembard": {
+      "source": "ashby",
+      "company": "Isembard",
+      "fetched": 49,
+      "kept": 1,
       "new": 0,
       "error": null
     },
@@ -53,11 +79,27 @@
       "new": 0,
       "error": null
     },
+    "ashby:quora": {
+      "source": "ashby",
+      "company": "Quora",
+      "fetched": 8,
+      "kept": 1,
+      "new": 0,
+      "error": null
+    },
     "ashby:saronic": {
       "source": "ashby",
       "company": "Saronic",
-      "fetched": 277,
-      "kept": 2,
+      "fetched": 284,
+      "kept": 3,
+      "new": 1,
+      "error": null
+    },
+    "ashby:spruceid": {
+      "source": "ashby",
+      "company": "SpruceID",
+      "fetched": 7,
+      "kept": 0,
       "new": 0,
       "error": null
     },
@@ -69,11 +111,19 @@
       "new": 0,
       "error": null
     },
+    "greenhouse:affirm": {
+      "source": "greenhouse",
+      "company": "Affirm",
+      "fetched": 225,
+      "kept": 1,
+      "new": 0,
+      "error": null
+    },
     "greenhouse:avride": {
       "source": "greenhouse",
       "company": "Avride",
       "fetched": 54,
-      "kept": 2,
+      "kept": 1,
       "new": 0,
       "error": null
     },
@@ -88,7 +138,7 @@
     "greenhouse:clear": {
       "source": "greenhouse",
       "company": "CLEAR",
-      "fetched": 58,
+      "fetched": 61,
       "kept": 0,
       "new": 0,
       "error": null
@@ -109,10 +159,18 @@
       "new": 0,
       "error": null
     },
+    "greenhouse:orbisoperations": {
+      "source": "greenhouse",
+      "company": "Orbis Operations",
+      "fetched": 24,
+      "kept": 1,
+      "new": 1,
+      "error": null
+    },
     "greenhouse:pmg": {
       "source": "greenhouse",
       "company": "PMG",
-      "fetched": 101,
+      "fetched": 99,
       "kept": 0,
       "new": 0,
       "error": null
@@ -121,14 +179,14 @@
       "source": "greenhouse",
       "company": "Self Financial",
       "fetched": 8,
-      "kept": 2,
+      "kept": 1,
       "new": 0,
       "error": null
     },
     "greenhouse:spacex": {
       "source": "greenhouse",
       "company": "SpaceX",
-      "fetched": 2786,
+      "fetched": 2780,
       "kept": 0,
       "new": 0,
       "error": null
@@ -136,7 +194,7 @@
     "greenhouse:torcrobotics": {
       "source": "greenhouse",
       "company": "Torc Robotics",
-      "fetched": 50,
+      "fetched": 52,
       "kept": 1,
       "new": 0,
       "error": null
@@ -152,7 +210,7 @@
     "lever:meds": {
       "source": "lever",
       "company": "Meds",
-      "fetched": 22,
+      "fetched": 21,
       "kept": 0,
       "new": 0,
       "error": null
@@ -160,7 +218,7 @@
     "lever:waabi": {
       "source": "lever",
       "company": "Waabi",
-      "fetched": 86,
+      "fetched": 85,
       "kept": 0,
       "new": 0,
       "error": null
@@ -168,18 +226,18 @@
     "simplify": {
       "source": "simplify",
       "company": null,
-      "fetched": 18709,
-      "kept": 65,
-      "new": 0,
+      "fetched": 18654,
+      "kept": 62,
+      "new": 1,
       "error": null
     },
     "workday:sentryinsurance": {
       "source": "workday",
       "company": "Sentry Insurance",
-      "fetched": 13,
+      "fetched": 0,
       "kept": 0,
       "new": 0,
-      "error": null
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sentryinsurance.wd1.myworkdayjobs.com/wday/cxs/sentryinsurance/SentryCareers/jobs"
     }
   }
 }

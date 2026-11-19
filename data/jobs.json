@@ -1,7 +1,146 @@
 {
-  "run_at": "2026-11-18T20:11:51Z",
+  "run_at": "2026-11-19T19:14:58Z",
   "count": 73,
   "jobs": {
+    "simplify:journal-technologies:3784cbeb-dad8-41ce-84ae-f3a2f77d09e2": {
+      "company": "Journal Technologies",
+      "company_size": null,
+      "first_seen": "2026-11-19",
+      "locations": [
+        "LA",
+        "Victoria, BC, Canada",
+        "Remote in USA",
+        "Logan, UT"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-19T15:45:33Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Junior Data Integration Developer",
+      "uid": "simplify:journal-technologies:3784cbeb-dad8-41ce-84ae-f3a2f77d09e2",
+      "url": "https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d"
+    },
+    "ashby:saronic:5c8201ff-6da7-47a1-a6d4-d698372ded00": {
+      "company": "Saronic",
+      "company_size": "M",
+      "first_seen": "2026-11-19",
+      "locations": [
+        "Austin, TX"
+      ],
+      "meta": {
+        "feed": "ashby:saronic",
+        "workplace_type": "OnSite"
+      },
+      "posted_at": "2026-11-18T20:34:45Z",
+      "remote": false,
+      "source": "ashby",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Full Stack Engineer",
+      "uid": "ashby:saronic:5c8201ff-6da7-47a1-a6d4-d698372ded00",
+      "url": "https://jobs.ashbyhq.com/saronic/5c8201ff-6da7-47a1-a6d4-d698372ded00"
+    },
+    "greenhouse:orbisoperations:4505540009": {
+      "company": "Orbis Operations",
+      "company_size": "S",
+      "first_seen": "2026-11-19",
+      "locations": [
+        "Remote-US"
+      ],
+      "meta": {
+        "feed": "greenhouse:orbisoperations",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-11-12T21:02:59Z",
+      "remote": true,
+      "source": "greenhouse",
+      "tags": [
+        "loc-preferred",
+        "watchlist"
+      ],
+      "title": "Full Stack Engineer",
+      "uid": "greenhouse:orbisoperations:4505540009",
+      "url": "https://job-boards.greenhouse.io/orbisoperations/jobs/4505540009"
+    },
+    "ashby:horizon3ai:169d3dde-b8e7-4545-a5a4-cd5cc882c101": {
+      "company": "Horizon3.ai",
+      "company_size": "M",
+      "first_seen": "2026-11-19",
+      "locations": [
+        "US, Remote"
+      ],
+      "meta": {
+        "feed": "ashby:horizon3ai",
+        "workplace_type": "Remote"
+      },
+      "posted_at": "2026-10-30T20:15:05Z",
+      "remote": true,
+      "source": "ashby",
+      "tags": [
+        "loc-preferred",
+        "watchlist"
+      ],
+      "title": "WebApp Offensive Security Software Engineer",
+      "uid": "ashby:horizon3ai:169d3dde-b8e7-4545-a5a4-cd5cc882c101",
+      "url": "https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101"
+    },
+    "ashby:fab2:d9edb922-6cae-4e65-9b20-ba452f3e2edf": {
+      "company": "Fab2",
+      "company_size": "S",
+      "first_seen": "2026-11-19",
+      "locations": [
+        "Austin"
+      ],
+      "meta": {
+        "feed": "ashby:fab2",
+        "workplace_type": "OnSite"
+      },
+      "posted_at": "2026-10-27T19:04:09Z",
+      "remote": false,
+      "source": "ashby",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Computer Vision Software Engineer",
+      "uid": "ashby:fab2:d9edb922-6cae-4e65-9b20-ba452f3e2edf",
+      "url": "https://jobs.ashbyhq.com/Fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf"
+    },
+    "ashby:horizon3ai:ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b": {
+      "company": "Horizon3.ai",
+      "company_size": "M",
+      "first_seen": "2026-11-19",
+      "locations": [
+        "US, Remote"
+      ],
+      "meta": {
+        "feed": "ashby:horizon3ai",
+        "workplace_type": "Remote"
+      },
+      "posted_at": "2026-10-23T14:56:37Z",
+      "remote": true,
+      "source": "ashby",
+      "tags": [
+        "loc-preferred",
+        "watchlist"
+      ],
+      "title": "Federal Platform Engineer",
+      "uid": "ashby:horizon3ai:ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b",
+      "url": "https://jobs.ashbyhq.com/horizon3ai/ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b"
+    },
     "simplify:amazon:2ebe6dc0-7a17-40c2-a840-c58c312185d9": {
       "company": "Amazon",
       "company_size": null,
@@ -29,32 +168,6 @@
       "title": "Software Development Engineer - Robotics",
       "uid": "simplify:amazon:2ebe6dc0-7a17-40c2-a840-c58c312185d9",
       "url": "https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027"
-    },
-    "simplify:executive-title-agency:03450e61-5413-4d01-ab76-a00ce4e99e0f": {
-      "company": "Executive Title Agency",
-      "company_size": null,
-      "first_seen": "2026-11-18",
-      "locations": [
-        "Houston, TX"
-      ],
-      "meta": {
-        "category": "AI/ML/Data",
-        "degrees": [
-          "Bachelor's"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-18T02:04:10Z",
-      "remote": false,
-      "source": "simplify",
-      "tags": [
-        "loc-preferred",
-        "simplify"
-      ],
-      "title": "Data Analyst",
-      "uid": "simplify:executive-title-agency:03450e61-5413-4d01-ab76-a00ce4e99e0f",
-      "url": "https://apply.workable.com/executive-title-agency/j/BB739F3FED/apply"
     },
     "simplify:qualcomm:372dccd9-1f30-4e08-89c6-71ef714dfb33": {
       "company": "Qualcomm",
@@ -86,37 +199,6 @@
       "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
       "uid": "simplify:qualcomm:372dccd9-1f30-4e08-89c6-71ef714dfb33",
       "url": "https://qualcomm.eightfold.ai/careers/job/446722177119"
-    },
-    "simplify:ghd:bff455d1-b0e0-4a6a-8c63-08d5882fc38d": {
-      "company": "GHD",
-      "company_size": null,
-      "first_seen": "2026-11-18",
-      "locations": [
-        "Farmington Hills, MI",
-        "King of Prussia, PA",
-        "Houston, TX",
-        "Dallas, TX",
-        "Rosemont, IL",
-        "Golden, CO"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-16T23:28:55Z",
-      "remote": false,
-      "source": "simplify",
-      "tags": [
-        "loc-preferred",
-        "simplify"
-      ],
-      "title": "Graduate Developer",
-      "uid": "simplify:ghd:bff455d1-b0e0-4a6a-8c63-08d5882fc38d",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481"
     },
     "simplify:microsoft:e225362a-3608-44aa-ae93-8c06b023ccd7": {
       "company": "Microsoft",
@@ -353,30 +435,30 @@
       "uid": "simplify:senseye:f28de8cd-1902-4fee-969b-6defdce6acd3",
       "url": "https://apply.workable.com/senseye/j/56F6BB2046/apply"
     },
-    "simplify:affirm:6aeeb00d-88c5-4ee8-871e-ff119dee63bb": {
+    "greenhouse:affirm:8181183003": {
       "company": "Affirm",
-      "company_size": null,
+      "company_size": "M",
       "first_seen": "2026-11-18",
       "locations": [
-        "Remote in USA"
+        "Remote US"
       ],
       "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's"
+        "alt_uids": [
+          "simplify:affirm:6aeeb00d-88c5-4ee8-871e-ff119dee63bb"
         ],
-        "feed": "simplify",
-        "sponsorship": "Other"
+        "feed": "greenhouse:affirm",
+        "posted_at_field": "first_published"
       },
       "posted_at": "2026-11-12T23:15:54Z",
       "remote": true,
-      "source": "simplify",
+      "source": "greenhouse",
       "tags": [
         "loc-preferred",
-        "simplify"
+        "simplify",
+        "watchlist"
       ],
-      "title": "Software Engineer 1 - Backend - Continuous Delivery",
-      "uid": "simplify:affirm:6aeeb00d-88c5-4ee8-871e-ff119dee63bb",
+      "title": "Software Engineer I, Backend (Continuous Delivery)",
+      "uid": "greenhouse:affirm:8181183003",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003"
     },
     "ashby:zetta2:28a44d44-b138-476f-acda-65384f1623dc": {
@@ -1089,31 +1171,6 @@
       "uid": "simplify:empower-pharmacy:c423bdb8-fc59-4745-bc15-5224b565cc3a",
       "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009"
     },
-    "simplify:shadowdragon:7c16f1bd-bd39-4a42-a12c-2e49647c85cd": {
-      "company": "ShadowDragon",
-      "company_size": null,
-      "first_seen": "2026-11-18",
-      "locations": [
-        "Remote in USA",
-        "Hoover, AL"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-04T10:11:33Z",
-      "remote": true,
-      "source": "simplify",
-      "tags": [
-        "loc-preferred",
-        "simplify"
-      ],
-      "title": "Junior AI/Machine Learning Engineer",
-      "uid": "simplify:shadowdragon:7c16f1bd-bd39-4a42-a12c-2e49647c85cd",
-      "url": "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c"
-    },
     "simplify:vizient:dd22de65-f2ed-491a-906d-0db1329ac27f": {
       "company": "Vizient",
       "company_size": null,
@@ -1504,29 +1561,31 @@
       "uid": "ashby:saronic:96c1f534-bd49-481c-88c5-85d344b20c82",
       "url": "https://jobs.ashbyhq.com/saronic/96c1f534-bd49-481c-88c5-85d344b20c82"
     },
-    "simplify:isembard:db2e73d9-53a4-44ad-8d27-d8c6bc00acd8": {
+    "ashby:isembard:c676e261-3792-4564-96f7-934a696fc104": {
       "company": "Isembard",
-      "company_size": null,
+      "company_size": "S",
       "first_seen": "2026-11-18",
       "locations": [
         "Dallas, TX"
       ],
       "meta": {
-        "category": "Software",
-        "degrees": [],
-        "feed": "simplify",
-        "sponsorship": "Other"
+        "alt_uids": [
+          "simplify:isembard:db2e73d9-53a4-44ad-8d27-d8c6bc00acd8"
+        ],
+        "feed": "ashby:isembard",
+        "workplace_type": "OnSite"
       },
-      "posted_at": "2026-10-29T00:00:00Z",
+      "posted_at": "2026-10-29T14:55:57Z",
       "remote": false,
-      "source": "simplify",
+      "source": "ashby",
       "tags": [
         "loc-acceptable",
-        "simplify"
+        "simplify",
+        "watchlist"
       ],
       "title": "Forward Deployed Engineer",
-      "uid": "simplify:isembard:db2e73d9-53a4-44ad-8d27-d8c6bc00acd8",
-      "url": "https://jobs.ashbyhq.com/isembard/c676e261-3792-4564-96f7-934a696fc104/application?embed=true"
+      "uid": "ashby:isembard:c676e261-3792-4564-96f7-934a696fc104",
+      "url": "https://jobs.ashbyhq.com/isembard/c676e261-3792-4564-96f7-934a696fc104"
     },
     "simplify:amd:0727f717-7671-410b-a2ce-72856c4f8adb": {
       "company": "AMD",
@@ -1793,113 +1852,33 @@
       "uid": "simplify:vizient:5d2615fd-5855-468c-b2f7-0ba0cf79d0a5",
       "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35366R"
     },
-    "simplify:quora:1fac2631-0a51-44d0-9af9-209c670e1742": {
+    "ashby:quora:5494e6a1-a973-46af-b9f3-57208eb91b52": {
       "company": "Quora",
-      "company_size": null,
-      "first_seen": "2026-11-18",
-      "locations": [
-        "Remote in USA",
-        "Remote in Canada"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's",
-          "Master's",
-          "PhD"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-10-20T22:23:47Z",
-      "remote": true,
-      "source": "simplify",
-      "tags": [
-        "loc-preferred",
-        "simplify"
-      ],
-      "title": "Full Stack Software Engineer New Grad",
-      "uid": "simplify:quora:1fac2631-0a51-44d0-9af9-209c670e1742",
-      "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true"
-    },
-    "greenhouse:avride:4458584009": {
-      "company": "Avride",
       "company_size": "M",
       "first_seen": "2026-11-18",
       "locations": [
-        "Austin, Texas"
+        "Remote - Multiple Locations",
+        "United States",
+        "Canada"
       ],
       "meta": {
-        "feed": "greenhouse:avride",
-        "posted_at_field": "first_published"
-      },
-      "posted_at": "2026-10-19T22:53:16Z",
-      "remote": false,
-      "source": "greenhouse",
-      "tags": [
-        "loc-acceptable",
-        "watchlist"
-      ],
-      "title": "Labeling Backend Software Engineer",
-      "uid": "greenhouse:avride:4458584009",
-      "url": "https://job-boards.greenhouse.io/avride/jobs/4458584009"
-    },
-    "simplify:amazon:9c9ff27f-75fd-4c1b-b076-e687f7e08f74": {
-      "company": "Amazon",
-      "company_size": null,
-      "first_seen": "2026-11-18",
-      "locations": [
-        "Madison, WI",
-        "Boston, MA",
-        "Seattle, WA",
-        "Austin, TX",
-        "Detroit, MI",
-        "Santa Clara, CA",
-        "Arlington County, Arlington, VA",
-        "Minneapolis, MN",
-        "Denver, CO"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's",
-          "Master's"
+        "alt_uids": [
+          "simplify:quora:1fac2631-0a51-44d0-9af9-209c670e1742"
         ],
-        "feed": "simplify",
-        "sponsorship": "Other"
+        "feed": "ashby:quora",
+        "workplace_type": "Remote"
       },
-      "posted_at": "2026-10-19T22:39:29Z",
-      "remote": false,
-      "source": "simplify",
+      "posted_at": "2026-10-20T22:09:06Z",
+      "remote": true,
+      "source": "ashby",
       "tags": [
-        "loc-acceptable",
-        "simplify"
-      ],
-      "title": "Software Engineer – Early Career",
-      "uid": "simplify:amazon:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
-      "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us"
-    },
-    "greenhouse:selffinancial:6225372004": {
-      "company": "Self Financial",
-      "company_size": "S",
-      "first_seen": "2026-11-18",
-      "locations": [
-        "Austin, TX"
-      ],
-      "meta": {
-        "feed": "greenhouse:selffinancial",
-        "posted_at_field": "first_published"
-      },
-      "posted_at": "2026-10-19T16:25:37Z",
-      "remote": false,
-      "source": "greenhouse",
-      "tags": [
-        "loc-acceptable",
+        "loc-preferred",
+        "simplify",
         "watchlist"
       ],
-      "title": "Backend Software Engineer",
-      "uid": "greenhouse:selffinancial:6225372004",
-      "url": "https://job-boards.greenhouse.io/selffinancial/jobs/6225372004"
+      "title": "Full Stack Software Engineer, New Grad - Quora (Remote)",
+      "uid": "ashby:quora:5494e6a1-a973-46af-b9f3-57208eb91b52",
+      "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52"
     }
   }
 }
