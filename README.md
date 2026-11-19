@@ -26,7 +26,7 @@ before adding one.
 
 If `data/seen.json` doesn't exist, the run bootstraps automatically.
 
-GitHub Actions (`.github/workflows/radar.yml`) runs daily at 11:00 UTC (05:00 CST / 06:00 CDT),
+GitHub Actions (`.github/workflows/radar.yml`) runs daily at 09:17 UTC (03:17 CST / 04:17 CDT),
 commits `data/` as `radar: YYYY-MM-DD (+N new)`, and fails the job (after committing) when more
 than half of the feeds error. Run it manually from the Actions tab; the `bootstrap` input does a
 bootstrap run.

@@ -2,9 +2,9 @@ name: radar
 
 on:
   schedule:
-    # 11:00 UTC = 05:00 CST / 06:00 CDT. Runs before the 07:00 CT triage task year-round,
-    # with headroom for GitHub's scheduled-run delays.
-    - cron: "0 11 * * *"
+    # 09:17 UTC = 03:17 CST / 04:17 CDT. Off the hour because GitHub delays scheduled runs
+    # most at :00, and early enough to leave ~3-4 hours before the 07:00 CT triage task.
+    - cron: "17 9 * * *"
   workflow_dispatch:
     inputs:
       bootstrap:
