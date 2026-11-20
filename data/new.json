@@ -1,145 +1,62 @@
 {
-  "run_at": "2026-11-19T19:14:58Z",
-  "count": 6,
+  "run_at": "2026-11-20T17:52:51Z",
+  "count": 2,
   "jobs": [
     {
-      "company": "Journal Technologies",
+      "company": "neurohire.ai",
       "company_size": null,
-      "first_seen": "2026-11-19",
+      "first_seen": "2026-11-20",
       "locations": [
-        "LA",
-        "Victoria, BC, Canada",
-        "Remote in USA",
-        "Logan, UT"
+        "Remote in USA"
       ],
       "meta": {
-        "category": "AI/ML/Data",
+        "category": "Software",
         "degrees": [
-          "Bachelor's"
+          "Master's"
         ],
         "feed": "simplify",
         "sponsorship": "Other"
       },
-      "posted_at": "2026-11-19T15:45:33Z",
+      "posted_at": "2026-11-19T23:04:30Z",
       "remote": true,
       "source": "simplify",
       "tags": [
         "loc-preferred",
         "simplify"
       ],
-      "title": "Junior Data Integration Developer",
-      "uid": "simplify:journal-technologies:3784cbeb-dad8-41ce-84ae-f3a2f77d09e2",
-      "url": "https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d"
+      "title": "Forward Deployed Engineer",
+      "uid": "simplify:neurohire-ai:af19d8f3-e4eb-443f-9668-3e0c5ba8d5f1",
+      "url": "https://apply.workable.com/neurohire-dot-a-i/j/59974A3466/apply"
     },
     {
-      "company": "Orbis Operations",
-      "company_size": "S",
-      "first_seen": "2026-11-19",
+      "company": "Rise Internet",
+      "company_size": null,
+      "first_seen": "2026-11-20",
       "locations": [
-        "Remote-US"
+        "Texas",
+        "Irving, TX"
       ],
       "meta": {
-        "feed": "greenhouse:orbisoperations",
-        "posted_at_field": "first_published"
+        "alt_uids": [
+          "simplify:sante:b84e71f0-da1d-40e1-809e-312f13a0dd2c"
+        ],
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
       },
-      "posted_at": "2026-11-12T21:02:59Z",
-      "remote": true,
-      "source": "greenhouse",
-      "tags": [
-        "loc-preferred",
-        "watchlist"
-      ],
-      "title": "Full Stack Engineer",
-      "uid": "greenhouse:orbisoperations:4505540009",
-      "url": "https://job-boards.greenhouse.io/orbisoperations/jobs/4505540009"
-    },
-    {
-      "company": "Horizon3.ai",
-      "company_size": "M",
-      "first_seen": "2026-11-19",
-      "locations": [
-        "US, Remote"
-      ],
-      "meta": {
-        "feed": "ashby:horizon3ai",
-        "workplace_type": "Remote"
-      },
-      "posted_at": "2026-10-30T20:15:05Z",
-      "remote": true,
-      "source": "ashby",
-      "tags": [
-        "loc-preferred",
-        "watchlist"
-      ],
-      "title": "WebApp Offensive Security Software Engineer",
-      "uid": "ashby:horizon3ai:169d3dde-b8e7-4545-a5a4-cd5cc882c101",
-      "url": "https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101"
-    },
-    {
-      "company": "Horizon3.ai",
-      "company_size": "M",
-      "first_seen": "2026-11-19",
-      "locations": [
-        "US, Remote"
-      ],
-      "meta": {
-        "feed": "ashby:horizon3ai",
-        "workplace_type": "Remote"
-      },
-      "posted_at": "2026-10-23T14:56:37Z",
-      "remote": true,
-      "source": "ashby",
-      "tags": [
-        "loc-preferred",
-        "watchlist"
-      ],
-      "title": "Federal Platform Engineer",
-      "uid": "ashby:horizon3ai:ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b",
-      "url": "https://jobs.ashbyhq.com/horizon3ai/ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b"
-    },
-    {
-      "company": "Saronic",
-      "company_size": "M",
-      "first_seen": "2026-11-19",
-      "locations": [
-        "Austin, TX"
-      ],
-      "meta": {
-        "feed": "ashby:saronic",
-        "workplace_type": "OnSite"
-      },
-      "posted_at": "2026-11-18T20:34:45Z",
+      "posted_at": "2026-11-20T07:09:37Z",
       "remote": false,
-      "source": "ashby",
+      "source": "simplify",
       "tags": [
         "loc-acceptable",
-        "watchlist"
+        "simplify"
       ],
-      "title": "Full Stack Engineer",
-      "uid": "ashby:saronic:5c8201ff-6da7-47a1-a6d4-d698372ded00",
-      "url": "https://jobs.ashbyhq.com/saronic/5c8201ff-6da7-47a1-a6d4-d698372ded00"
-    },
-    {
-      "company": "Fab2",
-      "company_size": "S",
-      "first_seen": "2026-11-19",
-      "locations": [
-        "Austin"
-      ],
-      "meta": {
-        "feed": "ashby:fab2",
-        "workplace_type": "OnSite"
-      },
-      "posted_at": "2026-10-27T19:04:09Z",
-      "remote": false,
-      "source": "ashby",
-      "tags": [
-        "loc-acceptable",
-        "watchlist"
-      ],
-      "title": "Computer Vision Software Engineer",
-      "uid": "ashby:fab2:d9edb922-6cae-4e65-9b20-ba452f3e2edf",
-      "url": "https://jobs.ashbyhq.com/Fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf"
+      "title": "Software Engineer 1",
+      "uid": "simplify:rise-internet:2826d282-8f4d-4136-ac55-8b63c5942327",
+      "url": "https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1"
     }
   ]
 }
