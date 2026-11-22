@@ -1,14 +1,14 @@
 {
-  "run_at": "2026-11-21T16:49:46Z",
-  "run_date": "2026-11-21",
+  "run_at": "2026-11-22T17:13:25Z",
+  "run_date": "2026-11-22",
   "bootstrap": false,
-  "runtime_seconds": 19.2,
+  "runtime_seconds": 1.0,
   "totals": {
     "feeds": 27,
     "errored": 0,
     "matching": 70,
-    "new": 6,
-    "reported_new": 6
+    "new": 1,
+    "reported_new": 1
   },
   "errored_feeds": [],
   "failed": false,
@@ -114,7 +114,7 @@
       "company": "Affirm",
       "fetched": 222,
       "kept": 2,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     "greenhouse:avride": {
@@ -130,7 +130,7 @@
       "company": "Bot Auto",
       "fetched": 21,
       "kept": 2,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     "greenhouse:clear": {
@@ -160,7 +160,7 @@
     "greenhouse:orbisoperations": {
       "source": "greenhouse",
       "company": "Orbis Operations",
-      "fetched": 20,
+      "fetched": 19,
       "kept": 1,
       "new": 0,
       "error": null
@@ -184,7 +184,7 @@
     "greenhouse:spacex": {
       "source": "greenhouse",
       "company": "SpaceX",
-      "fetched": 2821,
+      "fetched": 2845,
       "kept": 0,
       "new": 0,
       "error": null
@@ -224,9 +224,9 @@
     "simplify": {
       "source": "simplify",
       "company": null,
-      "fetched": 18613,
+      "fetched": 18505,
       "kept": 59,
-      "new": 4,
+      "new": 1,
       "error": null
     }
   }

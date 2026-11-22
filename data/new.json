@@ -1,159 +1,30 @@
 {
-  "run_at": "2026-11-21T16:49:46Z",
-  "count": 6,
+  "run_at": "2026-11-22T17:13:25Z",
+  "count": 1,
   "jobs": [
     {
-      "company": "Affirm",
-      "company_size": "M",
-      "first_seen": "2026-11-21",
-      "locations": [
-        "Remote US"
-      ],
-      "meta": {
-        "alt_uids": [
-          "simplify:affirm:1dcb493b-6303-4588-bbca-137c506354f5"
-        ],
-        "feed": "greenhouse:affirm",
-        "posted_at_field": "first_published"
-      },
-      "posted_at": "2026-11-21T01:09:09Z",
-      "remote": true,
-      "source": "greenhouse",
-      "tags": [
-        "loc-preferred",
-        "simplify",
-        "watchlist"
-      ],
-      "title": "Software Engineer I, Backend (Streaming Infra)",
-      "uid": "greenhouse:affirm:8201469003",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003"
-    },
-    {
-      "company": "Bot Auto",
-      "company_size": "S",
-      "first_seen": "2026-11-21",
-      "locations": [
-        "Houston, TX"
-      ],
-      "meta": {
-        "feed": "greenhouse:botauto",
-        "posted_at_field": "first_published"
-      },
-      "posted_at": "2026-11-21T00:39:54Z",
-      "remote": false,
-      "source": "greenhouse",
-      "tags": [
-        "loc-preferred",
-        "watchlist"
-      ],
-      "title": "Software Engineer, Data Infrastructure (C++)",
-      "uid": "greenhouse:botauto:5491569008",
-      "url": "https://job-boards.greenhouse.io/botauto/jobs/5491569008"
-    },
-    {
-      "company": "NRG Energy",
+      "company": "GrayMatter Robotics",
       "company_size": null,
-      "first_seen": "2026-11-21",
+      "first_seen": "2026-11-22",
       "locations": [
-        "Houston, TX"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-20T23:43:19Z",
-      "remote": false,
-      "source": "simplify",
-      "tags": [
-        "loc-preferred",
-        "simplify"
-      ],
-      "title": "AI-Enabled Developer Analyst 1",
-      "uid": "simplify:nrg-energy:d6290d7e-a3d6-4a84-85be-bb58375f1b65",
-      "url": "https://careers.nrgenergy.com/nrg/job/Houston-Developer-Analyst-I-TX-77010/1452758500/?ats=successfactors"
-    },
-    {
-      "company": "Milliman",
-      "company_size": null,
-      "first_seen": "2026-11-21",
-      "locations": [
-        "Brookfield, WI",
         "Remote in USA"
       ],
       "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's"
-        ],
+        "category": "AI/ML/Data",
+        "degrees": [],
         "feed": "simplify",
         "sponsorship": "Other"
       },
-      "posted_at": "2026-11-20T23:39:33Z",
+      "posted_at": "2026-11-18T00:00:00Z",
       "remote": true,
       "source": "simplify",
       "tags": [
         "loc-preferred",
         "simplify"
       ],
-      "title": "AI Product Engineer",
-      "uid": "simplify:milliman:34c90968-1e0d-4992-9d8d-19dae0551aea",
-      "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=caa572e4-f514-48c0-80c6-620b7465a91e"
-    },
-    {
-      "company": "Further",
-      "company_size": null,
-      "first_seen": "2026-11-21",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-20T17:02:49Z",
-      "remote": false,
-      "source": "simplify",
-      "tags": [
-        "loc-acceptable",
-        "simplify"
-      ],
-      "title": "Entry Level Developer New Grad",
-      "uid": "simplify:further:29d166bb-6682-4439-8684-406f6714ed82",
-      "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002"
-    },
-    {
-      "company": "Toyota",
-      "company_size": null,
-      "first_seen": "2026-11-21",
-      "locations": [
-        "Plano, TX"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-20T00:00:00Z",
-      "remote": false,
-      "source": "simplify",
-      "tags": [
-        "loc-acceptable",
-        "simplify"
-      ],
-      "title": "Software Engineer",
-      "uid": "simplify:toyota:a8173e49-9529-464c-ac9f-d73516392948",
-      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846"
+      "title": "Forward Deployed Engineer",
+      "uid": "simplify:graymatter-robotics:300a3078-84ab-4ba2-a881-d74186eb9064",
+      "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true"
     }
   ]
 }

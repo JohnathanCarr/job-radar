@@ -1,7 +1,31 @@
 {
-  "run_at": "2026-11-21T16:49:46Z",
+  "run_at": "2026-11-22T17:13:25Z",
   "count": 70,
   "jobs": {
+    "simplify:graymatter-robotics:300a3078-84ab-4ba2-a881-d74186eb9064": {
+      "company": "GrayMatter Robotics",
+      "company_size": null,
+      "first_seen": "2026-11-22",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-18T00:00:00Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Forward Deployed Engineer",
+      "uid": "simplify:graymatter-robotics:300a3078-84ab-4ba2-a881-d74186eb9064",
+      "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true"
+    },
     "greenhouse:affirm:8201469003": {
       "company": "Affirm",
       "company_size": "M",
@@ -1769,36 +1793,6 @@
       "title": "Computer Vision Software Engineer",
       "uid": "simplify:fab2:e794c4ea-160b-4797-b9b5-fb899b4763bc",
       "url": "https://jobs.ashbyhq.com/fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf/application?embed=true"
-    },
-    "simplify:amazon:2b5665cf-ffeb-4c91-adce-7d9357641676": {
-      "company": "Amazon",
-      "company_size": null,
-      "first_seen": "2026-11-18",
-      "locations": [
-        "Seattle, WA",
-        "Austin, TX",
-        "NYC",
-        "Cupertino, CA"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's",
-          "Master's"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-10-23T01:50:23Z",
-      "remote": false,
-      "source": "simplify",
-      "tags": [
-        "loc-acceptable",
-        "simplify"
-      ],
-      "title": "Software Development Engineer 1 Early Career - Annapurna Labs",
-      "uid": "simplify:amazon:2b5665cf-ffeb-4c91-adce-7d9357641676",
-      "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027"
     }
   }
 }
