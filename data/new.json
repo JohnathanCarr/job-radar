@@ -1,30 +1,5 @@
 {
-  "run_at": "2026-11-22T17:13:25Z",
-  "count": 1,
-  "jobs": [
-    {
-      "company": "GrayMatter Robotics",
-      "company_size": null,
-      "first_seen": "2026-11-22",
-      "locations": [
-        "Remote in USA"
-      ],
-      "meta": {
-        "category": "AI/ML/Data",
-        "degrees": [],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-18T00:00:00Z",
-      "remote": true,
-      "source": "simplify",
-      "tags": [
-        "loc-preferred",
-        "simplify"
-      ],
-      "title": "Forward Deployed Engineer",
-      "uid": "simplify:graymatter-robotics:300a3078-84ab-4ba2-a881-d74186eb9064",
-      "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true"
-    }
-  ]
+  "run_at": "2026-11-23T21:30:43Z",
+  "count": 0,
+  "jobs": []
 }

@@ -1,6 +1,6 @@
 {
-  "run_at": "2026-11-22T17:13:25Z",
-  "count": 70,
+  "run_at": "2026-11-23T21:30:43Z",
+  "count": 68,
   "jobs": {
     "simplify:graymatter-robotics:300a3078-84ab-4ba2-a881-d74186eb9064": {
       "company": "GrayMatter Robotics",
@@ -235,35 +235,6 @@
       "uid": "simplify:neurohire-ai:af19d8f3-e4eb-443f-9668-3e0c5ba8d5f1",
       "url": "https://apply.workable.com/neurohire-dot-a-i/j/59974A3466/apply"
     },
-    "simplify:journal-technologies:3784cbeb-dad8-41ce-84ae-f3a2f77d09e2": {
-      "company": "Journal Technologies",
-      "company_size": null,
-      "first_seen": "2026-11-19",
-      "locations": [
-        "LA",
-        "Victoria, BC, Canada",
-        "Remote in USA",
-        "Logan, UT"
-      ],
-      "meta": {
-        "category": "AI/ML/Data",
-        "degrees": [
-          "Bachelor's"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-19T15:45:33Z",
-      "remote": true,
-      "source": "simplify",
-      "tags": [
-        "loc-preferred",
-        "simplify"
-      ],
-      "title": "Junior Data Integration Developer",
-      "uid": "simplify:journal-technologies:3784cbeb-dad8-41ce-84ae-f3a2f77d09e2",
-      "url": "https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d"
-    },
     "ashby:saronic:5c8201ff-6da7-47a1-a6d4-d698372ded00": {
       "company": "Saronic",
       "company_size": "M",
@@ -351,28 +322,6 @@
       "title": "Computer Vision Software Engineer",
       "uid": "ashby:fab2:d9edb922-6cae-4e65-9b20-ba452f3e2edf",
       "url": "https://jobs.ashbyhq.com/Fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf"
-    },
-    "ashby:horizon3ai:ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b": {
-      "company": "Horizon3.ai",
-      "company_size": "M",
-      "first_seen": "2026-11-19",
-      "locations": [
-        "US, Remote"
-      ],
-      "meta": {
-        "feed": "ashby:horizon3ai",
-        "workplace_type": "Remote"
-      },
-      "posted_at": "2026-10-23T14:56:37Z",
-      "remote": true,
-      "source": "ashby",
-      "tags": [
-        "loc-preferred",
-        "watchlist"
-      ],
-      "title": "Federal Platform Engineer",
-      "uid": "ashby:horizon3ai:ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b",
-      "url": "https://jobs.ashbyhq.com/horizon3ai/ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b"
     },
     "simplify:amazon:2ebe6dc0-7a17-40c2-a840-c58c312185d9": {
       "company": "Amazon",
