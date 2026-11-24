@@ -55,6 +55,7 @@
   "simplify:executive-title-agency:03450e61-5413-4d01-ab76-a00ce4e99e0f": "2026-11-18",
   "simplify:fab2:e794c4ea-160b-4797-b9b5-fb899b4763bc": "2026-11-18",
   "simplify:further:29d166bb-6682-4439-8684-406f6714ed82": "2026-11-21",
+  "simplify:ghd:7b73b931-c375-4f99-a548-74efc93fbc1b": "2026-11-24",
   "simplify:ghd:bff455d1-b0e0-4a6a-8c63-08d5882fc38d": "2026-11-18",
   "simplify:goldman-sachs:60ba5d46-1da9-4411-9d8c-797c4a1811f2": "2026-11-18",
   "simplify:graymatter-robotics:300a3078-84ab-4ba2-a881-d74186eb9064": "2026-11-22",
@@ -63,11 +64,13 @@
   "simplify:h2o-ai:b2c16e55-dd3b-43dd-9b19-da69aff7bfb9": "2026-11-18",
   "simplify:isembard:db2e73d9-53a4-44ad-8d27-d8c6bc00acd8": "2026-11-18",
   "simplify:journal-technologies:3784cbeb-dad8-41ce-84ae-f3a2f77d09e2": "2026-11-19",
+  "simplify:koddi:6892a744-f18f-447c-a687-ff8d35de4e66": "2026-11-24",
   "simplify:kyndryl:7e76f4ab-d701-446b-b1ee-ec844bfc91eb": "2026-11-18",
   "simplify:kyndryl:c2d2ad15-8c15-41f3-a588-da205f5d342a": "2026-11-18",
   "simplify:microsoft:e225362a-3608-44aa-ae93-8c06b023ccd7": "2026-11-18",
   "simplify:milliman:34c90968-1e0d-4992-9d8d-19dae0551aea": "2026-11-21",
   "simplify:multi-media:12e1fe90-2686-45e5-a2cb-28ea043f4489": "2026-11-18",
+  "simplify:myriad360:7b528d54-ffd1-46d0-b619-21281f247993": "2026-11-24",
   "simplify:neurohire-ai:af19d8f3-e4eb-443f-9668-3e0c5ba8d5f1": "2026-11-20",
   "simplify:neurohire-ai:c43fb91d-ea1e-4f4a-8ad9-b288107149ff": "2026-11-18",
   "simplify:neurohire-ai:e286c81e-9d91-47e7-9629-9185635680de": "2026-11-18",
@@ -89,5 +92,6 @@
   "simplify:vizient:4eb69d88-9d79-4e01-80a1-bd85252cc29f": "2026-11-18",
   "simplify:vizient:5d2615fd-5855-468c-b2f7-0ba0cf79d0a5": "2026-11-18",
   "simplify:vizient:dd22de65-f2ed-491a-906d-0db1329ac27f": "2026-11-18",
-  "simplify:wash-u:50eedce1-4c09-47bb-a737-7be6bc79d1a8": "2026-11-18"
+  "simplify:wash-u:50eedce1-4c09-47bb-a737-7be6bc79d1a8": "2026-11-18",
+  "simplify:webai:84db8e17-900f-400d-8947-fe2a4d952995": "2026-11-24"
 }

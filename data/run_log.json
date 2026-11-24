@@ -1,14 +1,14 @@
 {
-  "run_at": "2026-11-23T21:30:43Z",
-  "run_date": "2026-11-23",
+  "run_at": "2026-11-24T20:13:00Z",
+  "run_date": "2026-11-24",
   "bootstrap": false,
-  "runtime_seconds": 21.4,
+  "runtime_seconds": 1.0,
   "totals": {
     "feeds": 27,
     "errored": 0,
-    "matching": 68,
-    "new": 0,
-    "reported_new": 0
+    "matching": 69,
+    "new": 4,
+    "reported_new": 4
   },
   "errored_feeds": [],
   "failed": false,
@@ -24,7 +24,7 @@
     "ashby:contoro": {
       "source": "ashby",
       "company": "Contoro",
-      "fetched": 9,
+      "fetched": 13,
       "kept": 1,
       "new": 0,
       "error": null
@@ -32,7 +32,7 @@
     "ashby:fab2": {
       "source": "ashby",
       "company": "Fab2",
-      "fetched": 57,
+      "fetched": 56,
       "kept": 1,
       "new": 0,
       "error": null
@@ -40,7 +40,7 @@
     "ashby:fluidstack": {
       "source": "ashby",
       "company": "Fluidstack",
-      "fetched": 243,
+      "fetched": 245,
       "kept": 2,
       "new": 0,
       "error": null
@@ -48,7 +48,7 @@
     "ashby:horizon3ai": {
       "source": "ashby",
       "company": "Horizon3.ai",
-      "fetched": 208,
+      "fetched": 207,
       "kept": 1,
       "new": 0,
       "error": null
@@ -56,7 +56,7 @@
     "ashby:isembard": {
       "source": "ashby",
       "company": "Isembard",
-      "fetched": 50,
+      "fetched": 51,
       "kept": 1,
       "new": 0,
       "error": null
@@ -64,7 +64,7 @@
     "ashby:marianaminerals": {
       "source": "ashby",
       "company": "Mariana Minerals",
-      "fetched": 99,
+      "fetched": 97,
       "kept": 0,
       "new": 0,
       "error": null
@@ -88,7 +88,7 @@
     "ashby:saronic": {
       "source": "ashby",
       "company": "Saronic",
-      "fetched": 295,
+      "fetched": 308,
       "kept": 2,
       "new": 0,
       "error": null
@@ -112,7 +112,7 @@
     "greenhouse:affirm": {
       "source": "greenhouse",
       "company": "Affirm",
-      "fetched": 218,
+      "fetched": 216,
       "kept": 2,
       "new": 0,
       "error": null
@@ -128,7 +128,7 @@
     "greenhouse:botauto": {
       "source": "greenhouse",
       "company": "Bot Auto",
-      "fetched": 21,
+      "fetched": 20,
       "kept": 2,
       "new": 0,
       "error": null
@@ -136,7 +136,7 @@
     "greenhouse:clear": {
       "source": "greenhouse",
       "company": "CLEAR",
-      "fetched": 58,
+      "fetched": 56,
       "kept": 0,
       "new": 0,
       "error": null
@@ -160,7 +160,7 @@
     "greenhouse:orbisoperations": {
       "source": "greenhouse",
       "company": "Orbis Operations",
-      "fetched": 17,
+      "fetched": 24,
       "kept": 1,
       "new": 0,
       "error": null
@@ -168,7 +168,7 @@
     "greenhouse:pmg": {
       "source": "greenhouse",
       "company": "PMG",
-      "fetched": 102,
+      "fetched": 98,
       "kept": 0,
       "new": 0,
       "error": null
@@ -176,7 +176,7 @@
     "greenhouse:selffinancial": {
       "source": "greenhouse",
       "company": "Self Financial",
-      "fetched": 9,
+      "fetched": 10,
       "kept": 1,
       "new": 0,
       "error": null
@@ -184,7 +184,7 @@
     "greenhouse:spacex": {
       "source": "greenhouse",
       "company": "SpaceX",
-      "fetched": 2855,
+      "fetched": 2854,
       "kept": 0,
       "new": 0,
       "error": null
@@ -216,7 +216,7 @@
     "lever:waabi": {
       "source": "lever",
       "company": "Waabi",
-      "fetched": 84,
+      "fetched": 85,
       "kept": 0,
       "new": 0,
       "error": null
@@ -224,9 +224,9 @@
     "simplify": {
       "source": "simplify",
       "company": null,
-      "fetched": 18435,
-      "kept": 58,
-      "new": 0,
+      "fetched": 18469,
+      "kept": 59,
+      "new": 4,
       "error": null
     }
   }
