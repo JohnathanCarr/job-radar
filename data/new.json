@@ -1,20 +1,13 @@
 {
-  "run_at": "2026-11-24T20:13:00Z",
-  "count": 4,
+  "run_at": "2026-11-25T19:23:14Z",
+  "count": 5,
   "jobs": [
     {
-      "company": "GHD",
+      "company": "Eide Bailly",
       "company_size": null,
-      "first_seen": "2026-11-24",
+      "first_seen": "2026-11-25",
       "locations": [
-        "Farmington Hills, MI",
-        "King of Prussia, PA",
-        "Houston, TX",
-        "Dallas, TX",
-        "Philadelphia, PA",
-        "Rosemont, IL",
-        "Chicago, IL",
-        "Golden, CO"
+        "Remote in USA"
       ],
       "meta": {
         "category": "Software",
@@ -24,92 +17,118 @@
         "feed": "simplify",
         "sponsorship": "Other"
       },
-      "posted_at": "2026-11-23T23:51:26Z",
-      "remote": false,
-      "source": "simplify",
-      "tags": [
-        "loc-preferred",
-        "simplify"
-      ],
-      "title": "Graduate Developer",
-      "uid": "simplify:ghd:7b73b931-c375-4f99-a548-74efc93fbc1b",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29509"
-    },
-    {
-      "company": "Myriad360",
-      "company_size": null,
-      "first_seen": "2026-11-24",
-      "locations": [
-        "Remote in USA"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-04T17:20:33Z",
+      "posted_at": "2026-11-24T20:55:00Z",
       "remote": true,
       "source": "simplify",
       "tags": [
         "loc-preferred",
         "simplify"
       ],
-      "title": "Junior AI and Automation Engineer",
-      "uid": "simplify:myriad360:7b528d54-ffd1-46d0-b619-21281f247993",
-      "url": "https://boards.greenhouse.io/myriad360/jobs/8930382002"
+      "title": "AI Engineer",
+      "uid": "simplify:eide-bailly:08ed91de-26c8-449f-a4b1-c48f2f815636",
+      "url": "https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us"
     },
     {
-      "company": "Koddi",
+      "company": "Eide Bailly",
       "company_size": null,
-      "first_seen": "2026-11-24",
+      "first_seen": "2026-11-25",
       "locations": [
-        "Fort Worth, TX"
+        "Remote in USA"
       ],
       "meta": {
         "category": "Software",
         "degrees": [
-          "Bachelor's",
-          "Master's",
-          "Bootcamp"
+          "Bachelor's"
         ],
         "feed": "simplify",
         "sponsorship": "Other"
       },
-      "posted_at": "2026-11-23T17:59:17Z",
-      "remote": false,
+      "posted_at": "2026-11-24T20:55:00Z",
+      "remote": true,
       "source": "simplify",
       "tags": [
-        "loc-acceptable",
+        "loc-preferred",
         "simplify"
       ],
-      "title": "Associate Software Engineer",
-      "uid": "simplify:koddi:6892a744-f18f-447c-a687-ff8d35de4e66",
-      "url": "https://job-boards.greenhouse.io/koddi/jobs/8944769002"
+      "title": "AI Engineer",
+      "uid": "simplify:eide-bailly:35bf28b6-d8d8-4227-9409-f3fbd75ac867",
+      "url": "https://careers.eidebailly.com/jobs/10092?icims=1&lang=en-us"
     },
     {
-      "company": "WebAI",
-      "company_size": null,
-      "first_seen": "2026-11-24",
+      "company": "Vestwell",
+      "company_size": "M",
+      "first_seen": "2026-11-25",
       "locations": [
-        "Austin, TX"
+        "New York, NY",
+        "Austin, TX",
+        "King of Prussia, PA",
+        "Scottsdale, AZ"
       ],
       "meta": {
-        "category": "Software",
-        "degrees": [],
-        "feed": "simplify",
-        "sponsorship": "Other"
+        "feed": "greenhouse:vestwell",
+        "posted_at_field": "first_published"
       },
-      "posted_at": "2026-11-23T00:00:00Z",
+      "posted_at": "2026-11-25T19:13:40Z",
       "remote": false,
-      "source": "simplify",
+      "source": "greenhouse",
       "tags": [
         "loc-acceptable",
-        "simplify"
+        "watchlist"
       ],
-      "title": "Junior Software Developer",
-      "uid": "simplify:webai:84db8e17-900f-400d-8947-fe2a4d952995",
-      "url": "https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df/application?embed=true"
+      "title": "Associate, Software Engineer",
+      "uid": "greenhouse:vestwell:8209363003",
+      "url": "https://job-boards.greenhouse.io/vestwell/jobs/8209363003"
+    },
+    {
+      "company": "Vestwell",
+      "company_size": "M",
+      "first_seen": "2026-11-25",
+      "locations": [
+        "New York, NY",
+        "Austin, TX",
+        "King of Prussia, PA",
+        "Scottsdale, AZ"
+      ],
+      "meta": {
+        "feed": "greenhouse:vestwell",
+        "posted_at_field": "first_published"
+      },
+      "posted_at": "2026-11-25T19:12:42Z",
+      "remote": false,
+      "source": "greenhouse",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Software Engineer",
+      "uid": "greenhouse:vestwell:8209319003",
+      "url": "https://job-boards.greenhouse.io/vestwell/jobs/8209319003"
+    },
+    {
+      "company": "Fluidstack",
+      "company_size": "M",
+      "first_seen": "2026-11-25",
+      "locations": [
+        "London",
+        "New York, NY",
+        "San Francisco, CA",
+        "Austin, TX",
+        "Seattle, WA"
+      ],
+      "meta": {
+        "feed": "ashby:fluidstack",
+        "workplace_type": null
+      },
+      "posted_at": "2026-10-26T22:25:20Z",
+      "remote": false,
+      "source": "ashby",
+      "tags": [
+        "loc-acceptable",
+        "watchlist"
+      ],
+      "title": "Software Engineer, Networking",
+      "uid": "ashby:fluidstack:d6adcc24-25dc-4e11-ae95-8c4d02c3fe82",
+      "url": "https://jobs.ashbyhq.com/fluidstack/d6adcc24-25dc-4e11-ae95-8c4d02c3fe82"
     }
   ]
 }
