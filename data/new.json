@@ -1,134 +1,32 @@
 {
-  "run_at": "2026-11-25T19:23:14Z",
-  "count": 5,
+  "run_at": "2026-11-26T19:06:19Z",
+  "count": 1,
   "jobs": [
     {
-      "company": "Eide Bailly",
+      "company": "Bluesight",
       "company_size": null,
-      "first_seen": "2026-11-25",
+      "first_seen": "2026-11-26",
       "locations": [
         "Remote in USA"
       ],
       "meta": {
-        "category": "Software",
+        "category": "AI/ML/Data",
         "degrees": [
           "Bachelor's"
         ],
         "feed": "simplify",
         "sponsorship": "Other"
       },
-      "posted_at": "2026-11-24T20:55:00Z",
+      "posted_at": "2026-11-25T23:03:12Z",
       "remote": true,
       "source": "simplify",
       "tags": [
         "loc-preferred",
         "simplify"
       ],
-      "title": "AI Engineer",
-      "uid": "simplify:eide-bailly:08ed91de-26c8-449f-a4b1-c48f2f815636",
-      "url": "https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us"
-    },
-    {
-      "company": "Eide Bailly",
-      "company_size": null,
-      "first_seen": "2026-11-25",
-      "locations": [
-        "Remote in USA"
-      ],
-      "meta": {
-        "category": "Software",
-        "degrees": [
-          "Bachelor's"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-11-24T20:55:00Z",
-      "remote": true,
-      "source": "simplify",
-      "tags": [
-        "loc-preferred",
-        "simplify"
-      ],
-      "title": "AI Engineer",
-      "uid": "simplify:eide-bailly:35bf28b6-d8d8-4227-9409-f3fbd75ac867",
-      "url": "https://careers.eidebailly.com/jobs/10092?icims=1&lang=en-us"
-    },
-    {
-      "company": "Vestwell",
-      "company_size": "M",
-      "first_seen": "2026-11-25",
-      "locations": [
-        "New York, NY",
-        "Austin, TX",
-        "King of Prussia, PA",
-        "Scottsdale, AZ"
-      ],
-      "meta": {
-        "feed": "greenhouse:vestwell",
-        "posted_at_field": "first_published"
-      },
-      "posted_at": "2026-11-25T19:13:40Z",
-      "remote": false,
-      "source": "greenhouse",
-      "tags": [
-        "loc-acceptable",
-        "watchlist"
-      ],
-      "title": "Associate, Software Engineer",
-      "uid": "greenhouse:vestwell:8209363003",
-      "url": "https://job-boards.greenhouse.io/vestwell/jobs/8209363003"
-    },
-    {
-      "company": "Vestwell",
-      "company_size": "M",
-      "first_seen": "2026-11-25",
-      "locations": [
-        "New York, NY",
-        "Austin, TX",
-        "King of Prussia, PA",
-        "Scottsdale, AZ"
-      ],
-      "meta": {
-        "feed": "greenhouse:vestwell",
-        "posted_at_field": "first_published"
-      },
-      "posted_at": "2026-11-25T19:12:42Z",
-      "remote": false,
-      "source": "greenhouse",
-      "tags": [
-        "loc-acceptable",
-        "watchlist"
-      ],
-      "title": "Software Engineer",
-      "uid": "greenhouse:vestwell:8209319003",
-      "url": "https://job-boards.greenhouse.io/vestwell/jobs/8209319003"
-    },
-    {
-      "company": "Fluidstack",
-      "company_size": "M",
-      "first_seen": "2026-11-25",
-      "locations": [
-        "London",
-        "New York, NY",
-        "San Francisco, CA",
-        "Austin, TX",
-        "Seattle, WA"
-      ],
-      "meta": {
-        "feed": "ashby:fluidstack",
-        "workplace_type": null
-      },
-      "posted_at": "2026-10-26T22:25:20Z",
-      "remote": false,
-      "source": "ashby",
-      "tags": [
-        "loc-acceptable",
-        "watchlist"
-      ],
-      "title": "Software Engineer, Networking",
-      "uid": "ashby:fluidstack:d6adcc24-25dc-4e11-ae95-8c4d02c3fe82",
-      "url": "https://jobs.ashbyhq.com/fluidstack/d6adcc24-25dc-4e11-ae95-8c4d02c3fe82"
+      "title": "Data Engineer",
+      "uid": "simplify:bluesight:3b02378c-9648-415b-b534-23055904c610",
+      "url": "https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply"
     }
   ]
 }

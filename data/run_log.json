@@ -1,14 +1,14 @@
 {
-  "run_at": "2026-11-25T19:23:14Z",
-  "run_date": "2026-11-25",
+  "run_at": "2026-11-26T19:06:19Z",
+  "run_date": "2026-11-26",
   "bootstrap": false,
-  "runtime_seconds": 1.4,
+  "runtime_seconds": 12.8,
   "totals": {
     "feeds": 27,
     "errored": 0,
-    "matching": 72,
-    "new": 5,
-    "reported_new": 5
+    "matching": 71,
+    "new": 1,
+    "reported_new": 1
   },
   "errored_feeds": [],
   "failed": false,
@@ -41,14 +41,14 @@
       "source": "ashby",
       "company": "Fluidstack",
       "fetched": 247,
-      "kept": 3,
-      "new": 1,
+      "kept": 2,
+      "new": 0,
       "error": null
     },
     "ashby:horizon3ai": {
       "source": "ashby",
       "company": "Horizon3.ai",
-      "fetched": 202,
+      "fetched": 201,
       "kept": 1,
       "new": 0,
       "error": null
@@ -64,7 +64,7 @@
     "ashby:marianaminerals": {
       "source": "ashby",
       "company": "Mariana Minerals",
-      "fetched": 98,
+      "fetched": 97,
       "kept": 0,
       "new": 0,
       "error": null
@@ -88,7 +88,7 @@
     "ashby:saronic": {
       "source": "ashby",
       "company": "Saronic",
-      "fetched": 309,
+      "fetched": 312,
       "kept": 2,
       "new": 0,
       "error": null
@@ -112,7 +112,7 @@
     "greenhouse:affirm": {
       "source": "greenhouse",
       "company": "Affirm",
-      "fetched": 215,
+      "fetched": 216,
       "kept": 2,
       "new": 0,
       "error": null
@@ -152,7 +152,7 @@
     "greenhouse:neuralink": {
       "source": "greenhouse",
       "company": "Neuralink",
-      "fetched": 78,
+      "fetched": 75,
       "kept": 0,
       "new": 0,
       "error": null
@@ -184,7 +184,7 @@
     "greenhouse:spacex": {
       "source": "greenhouse",
       "company": "SpaceX",
-      "fetched": 2865,
+      "fetched": 2889,
       "kept": 0,
       "new": 0,
       "error": null
@@ -200,9 +200,9 @@
     "greenhouse:vestwell": {
       "source": "greenhouse",
       "company": "Vestwell",
-      "fetched": 36,
+      "fetched": 35,
       "kept": 4,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "lever:meds": {
@@ -216,7 +216,7 @@
     "lever:waabi": {
       "source": "lever",
       "company": "Waabi",
-      "fetched": 81,
+      "fetched": 80,
       "kept": 0,
       "new": 0,
       "error": null
@@ -224,9 +224,9 @@
     "simplify": {
       "source": "simplify",
       "company": null,
-      "fetched": 18476,
-      "kept": 59,
-      "new": 2,
+      "fetched": 18442,
+      "kept": 60,
+      "new": 1,
       "error": null
     }
   }

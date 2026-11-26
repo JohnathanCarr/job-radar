@@ -1,7 +1,33 @@
 {
-  "run_at": "2026-11-25T19:23:14Z",
-  "count": 72,
+  "run_at": "2026-11-26T19:06:19Z",
+  "count": 71,
   "jobs": {
+    "simplify:bluesight:3b02378c-9648-415b-b534-23055904c610": {
+      "company": "Bluesight",
+      "company_size": null,
+      "first_seen": "2026-11-26",
+      "locations": [
+        "Remote in USA"
+      ],
+      "meta": {
+        "category": "AI/ML/Data",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-25T23:03:12Z",
+      "remote": true,
+      "source": "simplify",
+      "tags": [
+        "loc-preferred",
+        "simplify"
+      ],
+      "title": "Data Engineer",
+      "uid": "simplify:bluesight:3b02378c-9648-415b-b534-23055904c610",
+      "url": "https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply"
+    },
     "greenhouse:vestwell:8209363003": {
       "company": "Vestwell",
       "company_size": "M",
@@ -13,6 +39,9 @@
         "Scottsdale, AZ"
       ],
       "meta": {
+        "alt_uids": [
+          "simplify:vestwell:73abdb25-d3db-4ec4-8ebd-2716bebe3cae"
+        ],
         "feed": "greenhouse:vestwell",
         "posted_at_field": "first_published"
       },
@@ -21,6 +50,7 @@
       "source": "greenhouse",
       "tags": [
         "loc-acceptable",
+        "simplify",
         "watchlist"
       ],
       "title": "Associate, Software Engineer",
@@ -103,32 +133,6 @@
       "title": "AI Engineer",
       "uid": "simplify:eide-bailly:35bf28b6-d8d8-4227-9409-f3fbd75ac867",
       "url": "https://careers.eidebailly.com/jobs/10092?icims=1&lang=en-us"
-    },
-    "ashby:fluidstack:d6adcc24-25dc-4e11-ae95-8c4d02c3fe82": {
-      "company": "Fluidstack",
-      "company_size": "M",
-      "first_seen": "2026-11-25",
-      "locations": [
-        "London",
-        "New York, NY",
-        "San Francisco, CA",
-        "Austin, TX",
-        "Seattle, WA"
-      ],
-      "meta": {
-        "feed": "ashby:fluidstack",
-        "workplace_type": null
-      },
-      "posted_at": "2026-10-26T22:25:20Z",
-      "remote": false,
-      "source": "ashby",
-      "tags": [
-        "loc-acceptable",
-        "watchlist"
-      ],
-      "title": "Software Engineer, Networking",
-      "uid": "ashby:fluidstack:d6adcc24-25dc-4e11-ae95-8c4d02c3fe82",
-      "url": "https://jobs.ashbyhq.com/fluidstack/d6adcc24-25dc-4e11-ae95-8c4d02c3fe82"
     },
     "simplify:ghd:7b73b931-c375-4f99-a548-74efc93fbc1b": {
       "company": "GHD",
@@ -1824,33 +1828,6 @@
       "title": "Software Developer Engineer 1 - Graviton Software - Annapurna Labs",
       "uid": "simplify:amazon:9a6685e2-0aaf-400a-92b9-ec98a727cbf4",
       "url": "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs"
-    },
-    "simplify:fab2:e794c4ea-160b-4797-b9b5-fb899b4763bc": {
-      "company": "Fab2",
-      "company_size": null,
-      "first_seen": "2026-11-18",
-      "locations": [
-        "Austin, TX"
-      ],
-      "meta": {
-        "category": "AI/ML/Data",
-        "degrees": [
-          "Bachelor's",
-          "Master's"
-        ],
-        "feed": "simplify",
-        "sponsorship": "Other"
-      },
-      "posted_at": "2026-10-27T00:00:00Z",
-      "remote": false,
-      "source": "simplify",
-      "tags": [
-        "loc-acceptable",
-        "simplify"
-      ],
-      "title": "Computer Vision Software Engineer",
-      "uid": "simplify:fab2:e794c4ea-160b-4797-b9b5-fb899b4763bc",
-      "url": "https://jobs.ashbyhq.com/fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf/application?embed=true"
     }
   }
 }
