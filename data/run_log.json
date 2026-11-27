@@ -1,14 +1,14 @@
 {
-  "run_at": "2026-11-26T19:06:19Z",
-  "run_date": "2026-11-26",
+  "run_at": "2026-11-27T19:02:24Z",
+  "run_date": "2026-11-27",
   "bootstrap": false,
-  "runtime_seconds": 12.8,
+  "runtime_seconds": 1.1,
   "totals": {
     "feeds": 27,
     "errored": 0,
-    "matching": 71,
-    "new": 1,
-    "reported_new": 1
+    "matching": 69,
+    "new": 2,
+    "reported_new": 2
   },
   "errored_feeds": [],
   "failed": false,
@@ -33,7 +33,7 @@
       "source": "ashby",
       "company": "Fab2",
       "fetched": 56,
-      "kept": 1,
+      "kept": 0,
       "new": 0,
       "error": null
     },
@@ -112,7 +112,7 @@
     "greenhouse:affirm": {
       "source": "greenhouse",
       "company": "Affirm",
-      "fetched": 216,
+      "fetched": 218,
       "kept": 2,
       "new": 0,
       "error": null
@@ -168,7 +168,7 @@
     "greenhouse:pmg": {
       "source": "greenhouse",
       "company": "PMG",
-      "fetched": 90,
+      "fetched": 89,
       "kept": 0,
       "new": 0,
       "error": null
@@ -184,7 +184,7 @@
     "greenhouse:spacex": {
       "source": "greenhouse",
       "company": "SpaceX",
-      "fetched": 2889,
+      "fetched": 2890,
       "kept": 0,
       "new": 0,
       "error": null
@@ -224,9 +224,9 @@
     "simplify": {
       "source": "simplify",
       "company": null,
-      "fetched": 18442,
-      "kept": 60,
-      "new": 1,
+      "fetched": 18345,
+      "kept": 56,
+      "new": 2,
       "error": null
     }
   }

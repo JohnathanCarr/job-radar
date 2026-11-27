@@ -1,32 +1,58 @@
 {
-  "run_at": "2026-11-26T19:06:19Z",
-  "count": 1,
+  "run_at": "2026-11-27T19:02:24Z",
+  "count": 2,
   "jobs": [
     {
-      "company": "Bluesight",
+      "company": "Toyota",
       "company_size": null,
-      "first_seen": "2026-11-26",
+      "first_seen": "2026-11-27",
       "locations": [
-        "Remote in USA"
+        "Plano, TX"
       ],
       "meta": {
-        "category": "AI/ML/Data",
+        "category": "Software",
         "degrees": [
           "Bachelor's"
         ],
         "feed": "simplify",
         "sponsorship": "Other"
       },
-      "posted_at": "2026-11-25T23:03:12Z",
-      "remote": true,
+      "posted_at": "2026-11-25T00:00:00Z",
+      "remote": false,
       "source": "simplify",
       "tags": [
-        "loc-preferred",
+        "loc-acceptable",
         "simplify"
       ],
-      "title": "Data Engineer",
-      "uid": "simplify:bluesight:3b02378c-9648-415b-b534-23055904c610",
-      "url": "https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply"
+      "title": "Software Engineer",
+      "uid": "simplify:toyota:0c96f624-8843-4aa7-818e-5d2f023f18fd",
+      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10325070"
+    },
+    {
+      "company": "Toyota",
+      "company_size": null,
+      "first_seen": "2026-11-27",
+      "locations": [
+        "Plano, TX"
+      ],
+      "meta": {
+        "category": "Software",
+        "degrees": [
+          "Bachelor's"
+        ],
+        "feed": "simplify",
+        "sponsorship": "Other"
+      },
+      "posted_at": "2026-11-25T00:00:00Z",
+      "remote": false,
+      "source": "simplify",
+      "tags": [
+        "loc-acceptable",
+        "simplify"
+      ],
+      "title": "Software Engineer",
+      "uid": "simplify:toyota:f5de8d35-3ebe-4a7b-9eac-bdc9b583dc88",
+      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10332851"
     }
   ]
 }
